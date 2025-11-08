@@ -1,0 +1,16 @@
+{
+  "name": "send-daily-quote",
+  "version": "1.0.0",
+  "description": "Daily inspirational quotes via email",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "install": "bun install"
+  },
+  "dependencies": {
+    "resend": "^3.5.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
