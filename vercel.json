@@ -6,10 +6,6 @@
     },
     {
       "path": "/api/send-quote",
-      "schedule": "0 20 * * *"
-    },
-    {
-      "path": "/api/send-quote",
       "schedule": "0 23 * * *"
     }
   ]
