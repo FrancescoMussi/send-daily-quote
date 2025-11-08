@@ -4,8 +4,7 @@
   "description": "Daily inspirational quotes via email",
   "type": "module",
   "scripts": {
-    "dev": "vercel dev",
-    "install": "bun install"
+    "dev": "vercel dev"
   },
   "dependencies": {
     "resend": "^3.5.0"
