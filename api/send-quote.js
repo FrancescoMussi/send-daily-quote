@@ -1,5 +1,6 @@
 import { Resend } from 'resend'
 import { tolle } from '../quotes/tolle.js'
+import { fourthway } from '../quotes/fourthway.js'
 
 const resend = new Resend(process.env.RESEND_API_KEY)
 
@@ -11,7 +12,7 @@ const escapeHtml = s =>
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;')
 
-const getRandomQuote = () => tolle[Math.floor(Math.random() * tolle.length)]
+const getRandomQuote = (quotes) => quotes[Math.floor(Math.random() * quotes.length)]
 
 export default async function handler(req, res) {
   const authHeader = req.headers.authorization
@@ -20,7 +21,8 @@ export default async function handler(req, res) {
   }
 
   try {
-    const { quote, author, book } = getRandomQuote()
+    const tolleQuote = getRandomQuote(tolle)
+    const fourthwayQuote = getRandomQuote(fourthway)
     const today = new Date().toLocaleDateString('en-US', {
       weekday: 'long',
       year: 'numeric',
@@ -34,12 +36,16 @@ export default async function handler(req, res) {
     const subject = `Daily Inspiration — ${today}`
 
     const textAlt =
-`“${quote}”
-— ${author}
-${book ? `(${book})` : ''}
+`"${tolleQuote.quote}"
+— ${tolleQuote.author}
+${tolleQuote.book ? `(${tolleQuote.book})` : ''}
+
+"${fourthwayQuote.quote}"
+— ${fourthwayQuote.author}
+${fourthwayQuote.book ? `(${fourthwayQuote.book})` : ''}
 
 Have a wonderful day!
-You’re receiving this because you subscribed to Daily Inspiration.`
+You're receiving this because you subscribed to Daily Inspiration.`
 
     const html = `
 <!doctype html>
@@ -81,20 +87,44 @@ You’re receiving this because you subscribed to Daily Inspiration.`
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
                 <tr>
                   <td align="center">
-                    <div style="font-family:Georgia,serif;font-size:48px;line-height:1;color:#3b82f6;opacity:.25">“</div>
+                    <div style="font-family:Georgia,serif;font-size:48px;line-height:1;color:#3b82f6;opacity:.25">"</div>
                   </td>
                 </tr>
                 <tr>
                   <td>
                     <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:20px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
-                      ${escapeHtml(quote)}
+                      ${escapeHtml(tolleQuote.quote)}
                     </div>
                   </td>
                 </tr>
                 <tr>
                   <td align="center" style="padding-top:18px">
-                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(author)}</div>
-                    ${book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(book)}</div>` : ''}
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(tolleQuote.author)}</div>
+                    ${tolleQuote.book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(tolleQuote.book)}</div>` : ''}
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:0 28px 36px 28px">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="center" style="padding-top:32px">
+                    <div style="font-family:Georgia,serif;font-size:48px;line-height:1;color:#3b82f6;opacity:.25">"</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:20px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
+                      ${escapeHtml(fourthwayQuote.quote)}
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding-top:18px">
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(fourthwayQuote.author)}</div>
+                    ${fourthwayQuote.book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(fourthwayQuote.book)}</div>` : ''}
                   </td>
                 </tr>
               </table>
@@ -135,10 +165,19 @@ You’re receiving this because you subscribed to Daily Inspiration.`
 
     return res.status(200).json({
       success: true,
-      message: 'Quote sent successfully',
-      quote,
-      author,
-      book,
+      message: 'Quotes sent successfully',
+      quotes: [
+        {
+          quote: tolleQuote.quote,
+          author: tolleQuote.author,
+          book: tolleQuote.book
+        },
+        {
+          quote: fourthwayQuote.quote,
+          author: fourthwayQuote.author,
+          book: fourthwayQuote.book
+        }
+      ],
       emailId: data.id
     })
   } catch (err) {
