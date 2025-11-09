@@ -62,6 +62,7 @@ export default async function handler(req, res) {
 
     // Get recipients from environment variable
     const recipients = process.env.EMAIL_RECIPIENTS.split(',').map(email => email.trim());
+    console.log('Recipients:', recipients);
 
     // Send email using Resend
     const { data, error } = await resend.emails.send({
