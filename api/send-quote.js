@@ -36,13 +36,13 @@ export default async function handler(req, res) {
     const subject = `Daily Inspiration — ${today}`
 
     const textAlt =
-`"${tolleQuote.quote}"
-— ${tolleQuote.author}
-${tolleQuote.book ? `(${tolleQuote.book})` : ''}
-
-"${fourthwayQuote.quote}"
+`"${fourthwayQuote.quote}"
 — ${fourthwayQuote.author}
 ${fourthwayQuote.book ? `(${fourthwayQuote.book})` : ''}
+
+"${tolleQuote.quote}"
+— ${tolleQuote.author}
+${tolleQuote.book ? `(${tolleQuote.book})` : ''}
 
 Have a wonderful day!
 You're receiving this because you subscribed to Daily Inspiration.`
@@ -93,14 +93,14 @@ You're receiving this because you subscribed to Daily Inspiration.`
                 <tr>
                   <td>
                     <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:20px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
-                      ${escapeHtml(tolleQuote.quote)}
+                      ${escapeHtml(fourthwayQuote.quote)}
                     </div>
                   </td>
                 </tr>
                 <tr>
                   <td align="center" style="padding-top:18px">
-                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(tolleQuote.author)}</div>
-                    ${tolleQuote.book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(tolleQuote.book)}</div>` : ''}
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(fourthwayQuote.author)}</div>
+                    ${fourthwayQuote.book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(fourthwayQuote.book)}</div>` : ''}
                   </td>
                 </tr>
               </table>
@@ -117,14 +117,14 @@ You're receiving this because you subscribed to Daily Inspiration.`
                 <tr>
                   <td>
                     <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:20px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
-                      ${escapeHtml(fourthwayQuote.quote)}
+                      ${escapeHtml(tolleQuote.quote)}
                     </div>
                   </td>
                 </tr>
                 <tr>
                   <td align="center" style="padding-top:18px">
-                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(fourthwayQuote.author)}</div>
-                    ${fourthwayQuote.book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(fourthwayQuote.book)}</div>` : ''}
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(tolleQuote.author)}</div>
+                    ${tolleQuote.book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(tolleQuote.book)}</div>` : ''}
                   </td>
                 </tr>
               </table>
@@ -168,14 +168,14 @@ You're receiving this because you subscribed to Daily Inspiration.`
       message: 'Quotes sent successfully',
       quotes: [
         {
-          quote: tolleQuote.quote,
-          author: tolleQuote.author,
-          book: tolleQuote.book
-        },
-        {
           quote: fourthwayQuote.quote,
           author: fourthwayQuote.author,
           book: fourthwayQuote.book
+        },
+        {
+          quote: tolleQuote.quote,
+          author: tolleQuote.author,
+          book: tolleQuote.book
         }
       ],
       emailId: data.id
