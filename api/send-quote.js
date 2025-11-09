@@ -1,45 +1,13 @@
 import { Resend } from 'resend';
-
-// Array of inspirational quotes
-const quotes = [
-  "The only way to do great work is to love what you do. - Steve Jobs",
-  "Innovation distinguishes between a leader and a follower. - Steve Jobs",
-  "Life is what happens when you're busy making other plans. - John Lennon",
-  "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
-  "It is during our darkest moments that we must focus to see the light. - Aristotle",
-  "The way to get started is to quit talking and begin doing. - Walt Disney",
-  "Don't let yesterday take up too much of today. - Will Rogers",
-  "You learn more from failure than from success. Don't let it stop you. - Unknown",
-  "It's not whether you get knocked down, it's whether you get up. - Vince Lombardi",
-  "People who are crazy enough to think they can change the world, are the ones who do. - Rob Siltanen",
-  "We generate fears while we sit. We overcome them by action. - Dr. Henry Link",
-  "Whether you think you can or you think you can't, you're right. - Henry Ford",
-  "The only impossible journey is the one you never begin. - Tony Robbins",
-  "Act as if what you do makes a difference. It does. - William James",
-  "Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill",
-  "Believe you can and you're halfway there. - Theodore Roosevelt",
-  "The best time to plant a tree was 20 years ago. The second best time is now. - Chinese Proverb",
-  "Don't watch the clock; do what it does. Keep going. - Sam Levenson",
-  "Everything you've ever wanted is on the other side of fear. - George Addair",
-  "Hardships often prepare ordinary people for an extraordinary destiny. - C.S. Lewis"
-];
+import { tolle } from '../quotes/tolle.js';
 
 // Initialize Resend
 const resend = new Resend(process.env.RESEND_API_KEY);
 
-// Function to get random quote
+// Function to get random quote from tolle array
 function getRandomQuote() {
-  const randomIndex = Math.floor(Math.random() * quotes.length);
-  return quotes[randomIndex];
-}
-
-// Function to parse quote (separate text and author)
-function parseQuote(quote) {
-  const parts = quote.split(' - ');
-  return {
-    text: parts[0],
-    author: parts[1] || 'Unknown'
-  };
+  const randomIndex = Math.floor(Math.random() * tolle.length);
+  return tolle[randomIndex];
 }
 
 // Main handler function
@@ -51,8 +19,8 @@ export default async function handler(req, res) {
   }
 
   try {
-    const quote = getRandomQuote();
-    const { text, author } = parseQuote(quote);
+    const quoteObj = getRandomQuote();
+    const { quote: text, author, book } = quoteObj;
     const today = new Date().toLocaleDateString('en-US', {
       weekday: 'long',
       year: 'numeric',
@@ -167,6 +135,7 @@ export default async function handler(req, res) {
                   <p class="quote">${text}</p>
                 </div>
                 <p class="author">— ${author}</p>
+                <p style="text-align: center; color: #999; font-size: 14px; margin-top: 10px; font-style: italic;">${book}</p>
               </div>
               <div class="footer">
                 <p>Have a wonderful day! 🌟</p>
@@ -191,6 +160,7 @@ export default async function handler(req, res) {
       message: 'Quote sent successfully',
       quote: text,
       author: author,
+      book: book,
       emailId: data.id 
     });
 
