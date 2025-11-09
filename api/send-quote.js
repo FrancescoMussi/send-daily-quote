@@ -108,22 +108,12 @@ You’re receiving this because you subscribed to Daily Inspiration.`
                     <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280" class="muted">
                       Have a wonderful day ✨
                     </div>
-                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:12px;color:#9aa2ad;margin-top:8px" class="muted">
-                      You’re receiving this because you subscribed to Daily Inspiration.
-                      <a href="{{{UNSUBSCRIBE_URL}}}" style="color:#3b82f6">Unsubscribe</a>
-                      • <a href="{{{PREFERENCES_URL}}}" style="color:#3b82f6">Manage preferences</a>
-                    </div>
                   </td>
                 </tr>
               </table>
             </td>
           </tr>
         </table>
-
-        <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:11px;color:#94a3b8;margin-top:12px" class="muted">
-          If this email looks broken, <a href="{{{WEB_VIEW_URL}}}" style="color:#3b82f6">view it in your browser</a>.
-        </div>
-
       </td>
     </tr>
   </table>
