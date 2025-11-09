@@ -86,11 +86,6 @@ You're receiving this because you subscribed to Daily Inspiration.`
             <td style="padding:36px 28px">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
                 <tr>
-                  <td align="center">
-                    <div style="font-family:Georgia,serif;font-size:48px;line-height:1;color:#3b82f6;opacity:.25">"</div>
-                  </td>
-                </tr>
-                <tr>
                   <td>
                     <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
                       ${escapeHtml(fourthwayQuote.quote)}
@@ -109,11 +104,6 @@ You're receiving this because you subscribed to Daily Inspiration.`
           <tr>
             <td style="padding:0 28px 36px 28px">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
-                <tr>
-                  <td align="center" style="padding-top:32px">
-                    <div style="font-family:Georgia,serif;font-size:48px;line-height:1;color:#3b82f6;opacity:.25">"</div>
-                  </td>
-                </tr>
                 <tr>
                   <td>
                     <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
