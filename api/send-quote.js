@@ -1,174 +1,161 @@
-import { Resend } from 'resend';
-import { tolle } from '../quotes/tolle.js';
+import { Resend } from 'resend'
+import { tolle } from '../quotes/tolle.js'
 
-// Initialize Resend
-const resend = new Resend(process.env.RESEND_API_KEY);
+const resend = new Resend(process.env.RESEND_API_KEY)
 
-// Function to get random quote from tolle array
-function getRandomQuote() {
-  const randomIndex = Math.floor(Math.random() * tolle.length);
-  return tolle[randomIndex];
-}
+const escapeHtml = s =>
+  String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;')
 
-// Main handler function
+const getRandomQuote = () => tolle[Math.floor(Math.random() * tolle.length)]
+
 export default async function handler(req, res) {
-  // Verify this is a cron job request (optional security)
-  const authHeader = req.headers.authorization;
+  const authHeader = req.headers.authorization
   if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
-    return res.status(401).json({ error: 'Unauthorized' });
+    return res.status(401).json({ error: 'Unauthorized' })
   }
 
   try {
-    const quoteObj = getRandomQuote();
-    const { quote: text, author, book } = quoteObj;
+    const { quote, author, book } = getRandomQuote()
     const today = new Date().toLocaleDateString('en-US', {
       weekday: 'long',
       year: 'numeric',
       month: 'long',
       day: 'numeric'
-    });
+    })
 
-    // Get recipients from environment variable
-    const recipients = process.env.EMAIL_RECIPIENTS.split(',').map(email => email.trim());
-    console.log('Recipients:', recipients);
+    const recipients = process.env.EMAIL_RECIPIENTS.split(',').map(e => e.trim())
 
-    // Send email using Resend
+    const preheader = `Your daily inspiration for ${today}`
+    const subject = `Daily Inspiration — ${today}`
+
+    const textAlt =
+`“${quote}”
+— ${author}
+${book ? `(${book})` : ''}
+
+Have a wonderful day!
+You’re receiving this because you subscribed to Daily Inspiration.`
+
+    const html = `
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="supported-color-schemes" content="light dark">
+  <title>${subject}</title>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .bg-body { background:#0b0c0e !important }
+      .bg-card { background:#15171a !important }
+      .muted { color:#9aa2ad !important }
+      .title, .quote, .author { color:#e6e7e9 !important }
+      .bar { border-color:#3b82f6 !important }
+    }
+    a { text-decoration:none }
+  </style>
+</head>
+<body style="margin:0;background:#f2f4f7" class="bg-body">
+  <div style="display:none;max-height:0;overflow:hidden;opacity:0">
+    ${preheader}
+  </div>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f2f4f7" class="bg-body">
+    <tr>
+      <td align="center" style="padding:24px">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;background:#ffffff;border-radius:12px" class="bg-card">
+          <tr>
+            <td align="center" style="padding:28px 24px;background:#3b82f6;border-top-left-radius:12px;border-top-right-radius:12px">
+              <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#ffffff;font-size:24px;line-height:1.3" class="title">✨ Daily Inspiration</div>
+              <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#eaf2ff;opacity:.95;font-size:14px;margin-top:6px">${today}</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:36px 28px">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="center">
+                    <div style="font-family:Georgia,serif;font-size:48px;line-height:1;color:#3b82f6;opacity:.25">“</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:20px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
+                      ${escapeHtml(quote)}
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding-top:18px">
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(author)}</div>
+                    ${book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(book)}</div>` : ''}
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px 24px;border-top:1px solid #e5e7eb;background:#f8fafc;border-bottom-left-radius:12px;border-bottom-right-radius:12px">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="center">
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280" class="muted">
+                      Have a wonderful day ✨
+                    </div>
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:12px;color:#9aa2ad;margin-top:8px" class="muted">
+                      You’re receiving this because you subscribed to Daily Inspiration.
+                      <a href="{{{UNSUBSCRIBE_URL}}}" style="color:#3b82f6">Unsubscribe</a>
+                      • <a href="{{{PREFERENCES_URL}}}" style="color:#3b82f6">Manage preferences</a>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+
+        <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:11px;color:#94a3b8;margin-top:12px" class="muted">
+          If this email looks broken, <a href="{{{WEB_VIEW_URL}}}" style="color:#3b82f6">view it in your browser</a>.
+        </div>
+
+      </td>
+    </tr>
+  </table>
+</body>
+</html>`
+
     const { data, error } = await resend.emails.send({
       from: process.env.FROM_EMAIL || 'Daily Quotes <onboarding@resend.dev>',
       to: recipients,
-      subject: `Daily Inspiration - ${today}`,
-      html: `
-        <!DOCTYPE html>
-        <html>
-          <head>
-            <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <style>
-              body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
-                background-color: #f4f4f4;
-                margin: 0;
-                padding: 0;
-              }
-              .container {
-                max-width: 600px;
-                margin: 50px auto;
-                background-color: #ffffff;
-                border-radius: 12px;
-                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-                overflow: hidden;
-              }
-              .header {
-                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-                color: white;
-                padding: 40px 30px;
-                text-align: center;
-              }
-              .header h1 {
-                margin: 0;
-                font-size: 28px;
-                font-weight: 600;
-              }
-              .header p {
-                margin: 10px 0 0 0;
-                font-size: 14px;
-                opacity: 0.9;
-              }
-              .content {
-                padding: 50px 40px;
-              }
-              .quote-container {
-                position: relative;
-                margin: 30px 0;
-              }
-              .quote-mark {
-                font-size: 60px;
-                color: #667eea;
-                opacity: 0.2;
-                position: absolute;
-                top: -20px;
-                left: -10px;
-                font-family: Georgia, serif;
-              }
-              .quote {
-                font-size: 22px;
-                color: #333;
-                line-height: 1.6;
-                text-align: center;
-                margin: 0;
-                padding: 30px 20px;
-                background-color: #f9f9f9;
-                border-left: 4px solid #667eea;
-                border-radius: 8px;
-                position: relative;
-              }
-              .author {
-                font-size: 16px;
-                color: #666;
-                text-align: center;
-                margin-top: 20px;
-                font-weight: 500;
-              }
-              .footer {
-                text-align: center;
-                padding: 30px;
-                color: #888;
-                font-size: 13px;
-                background-color: #f9f9f9;
-                border-top: 1px solid #eee;
-              }
-              .footer a {
-                color: #667eea;
-                text-decoration: none;
-              }
-            </style>
-          </head>
-          <body>
-            <div class="container">
-              <div class="header">
-                <h1>✨ Daily Inspiration</h1>
-                <p>${today}</p>
-              </div>
-              <div class="content">
-                <div class="quote-container">
-                  <div class="quote-mark">"</div>
-                  <p class="quote">${text}</p>
-                </div>
-                <p class="author">— ${author}</p>
-                <p style="text-align: center; color: #999; font-size: 14px; margin-top: 10px; font-style: italic;">${book}</p>
-              </div>
-              <div class="footer">
-                <p>Have a wonderful day! 🌟</p>
-                <p style="margin-top: 10px; font-size: 12px;">
-                  You're receiving this because you subscribed to daily inspirational quotes.
-                </p>
-              </div>
-            </div>
-          </body>
-        </html>
-      `,
-    });
+      subject,
+      html,
+      text: textAlt
+    })
 
     if (error) {
-      console.error('Error sending email:', error);
-      return res.status(400).json({ error: error.message });
+      console.error('Error sending email:', error)
+      return res.status(400).json({ error: error.message })
     }
 
-    console.log('Email sent successfully:', data);
-    return res.status(200).json({ 
-      success: true, 
+    return res.status(200).json({
+      success: true,
       message: 'Quote sent successfully',
-      quote: text,
-      author: author,
-      book: book,
-      emailId: data.id 
-    });
-
-  } catch (error) {
-    console.error('Error in handler:', error);
-    return res.status(500).json({ 
+      quote,
+      author,
+      book,
+      emailId: data.id
+    })
+  } catch (err) {
+    console.error('Error in handler:', err)
+    return res.status(500).json({
       error: 'Failed to send quote',
-      details: error.message 
-    });
+      details: err.message
+    })
   }
 }
