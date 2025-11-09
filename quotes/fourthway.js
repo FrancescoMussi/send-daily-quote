@@ -1,5 +1,4 @@
 export const fourthway = [
-  [
   {
     "quote": "Study of internal considering, of mechanicalness, of lying, of imagination, of identification ... first you must scrub the machine clean; it is too covered with rust.",
     "author": "P. D. Ouspensky",
@@ -150,6 +149,4 @@ export const fourthway = [
     "author": "P. D. Ouspensky",
     "book": "The Fourth Way"
   }
-]
-
 ]
