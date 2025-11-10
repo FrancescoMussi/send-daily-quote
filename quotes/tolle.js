@@ -1,4 +1,4 @@
-[
+export const tolle = [
   {
     "author": "Eckhart Tolle",
     "book": "The Power of Now",
