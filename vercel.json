@@ -2,11 +2,17 @@
   "crons": [
     {
       "path": "/api/send-quote",
-      "schedule": "37 5 * * *"
+      "schedule": "37 5 * * *",
+      "headers": {
+        "Authorization": "Bearer $CRON_SECRET"
+      }
     },
     {
       "path": "/api/send-quote",
-      "schedule": "37 15 * * *"
+      "schedule": "37 15 * * *",
+      "headers": {
+        "Authorization": "Bearer $CRON_SECRET"
+      }
     }
   ]
 }
