@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Daily inspirational quotes via email",
   "type": "module",
-  "scripts": {
-    "dev": "vercel dev"
-  },
+  "scripts": {},
   "dependencies": {
     "resend": "^3.5.0"
   },
