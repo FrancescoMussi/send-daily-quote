@@ -15,8 +15,18 @@ const escapeHtml = s =>
 const getRandomQuote = (quotes) => quotes[Math.floor(Math.random() * quotes.length)]
 
 export default async function handler(req, res) {
+  // Check for Vercel cron header (automatically added by Vercel)
+  const isVercelCron = req.headers['x-vercel-cron'] === '1'
+  
+  // Check for query parameter secret (for manual testing)
+  const querySecret = req.query.secret
+  
+  // Check for Authorization header (for manual testing)
   const authHeader = req.headers.authorization
-  if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
+  const isValidAuthHeader = authHeader === `Bearer ${process.env.CRON_SECRET}`
+  
+  // Allow if it's a Vercel cron request, or if secret matches via query param or auth header
+  if (!isVercelCron && querySecret !== process.env.CRON_SECRET && !isValidAuthHeader) {
     return res.status(401).json({ error: 'Unauthorized' })
   }
 
