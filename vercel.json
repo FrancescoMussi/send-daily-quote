@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/send-quote",
-      "schedule": "37 5 * * *"
+      "schedule": "0 5 * * *"
     },
     {
       "path": "/api/send-quote",
