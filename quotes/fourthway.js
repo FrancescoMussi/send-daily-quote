@@ -400,68 +400,68 @@ export const fourthway = [
     "quote": "Ouspensky used to say that people were divided into three kinds, those whose chief difficulty was negative emotion, those whose chief difficulty was imagination, and those whose chief difficulty was formatory [mechanical] thinking."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "Whatever the state in which I find myself at this moment, whatever the sense of the force I manifest, the highest possibilities are here, hidden by the thick screen of my passivity in believing in my self-sufficiency. My destiny begins when I feel the call of another force in me and respond to it voluntarily. This is my first voluntary act, becoming available to a reality that changes my purpose for living."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "As I am today, I feel empty, living without meaning, without a real aim, without purpose. I am here simply because I have been created. And I feel my life go by without any sense of direction, all the while suggestible, subject to what I hope, what I expect, what I have to do, what all this means. My functions are passive, under the influence and at the mercy of everything that touches them. My thinking hears words it believes it understands, and immediately has associations. My feeling, on the lookout for what pleases or displeases me, is curious or refuses. And my body is heavy, digesting or lounging in its torpor. I feel myself passive. When I have to manifest, to express myself, I simply react to the impression received according to the way my centers have been educated."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "My thinking reacts automatically, making comparisons and obeying commands from all the material accumulated over time."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "When I experience this more active thinking and sensing together, I discover a new wish, a feeling of urgency to be like this. It is only at the moment this intensity appears—of wishing to see, of wishing to know what is—that I awake to myself and to what I am as a whole. I awake not in order to change but to know the true, the real. What has changed is my attitude. It is more conscious. And I see that if this active wishing is not here, I will fall back into my dream."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "So, the only reality for me today is in my effort to be present to myself."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "I see that all things have the same importance, and I accept failure as good for me. I begin again a thousand times."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "In facing life, I am driven by the force of my ordinary “I”, whose very possibility of existing depends on the world that surrounds it. This “I” has a deep fear of being nothing and is afraid of not having security, power, possessions. It is thin-skinned and easily wounded, always eager to be recognized, easily discouraged, rebellious against others, full of self-pity. There is almost constant fear—not a particular but a general fear—of being insecure or incapable, or some other vulnerability. And there is always avidity. I want to obtain, I want to change, I want to become. My usual emotional state is negative, always reacting to people and events from my selfish, ego-centered point of view—what pleases or displeases me, what I like or what I do not like."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "All the possibilities are in me, but I can pass my life without any real change."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "The effort awakens it, awakens a force that was asleep."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "It is not necessary to come always to an exalted state, only to a level at which I can stay present a little longer. Simply remaining above the level of sleep—a little higher but in a way that has some stability—is itself extraordinary."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "With a right effort, the result will always come, in due course."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "I have to expect setbacks. The search for “I” is a lifelong journey. I take a step, I fall. I take two steps, I fall. In falling I come to know the obstacles, and when I begin again I am forewarned."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "In order to know what I really am, I must go from discovery to discovery. Liberation is not to be found in judging the “bad” or the “good.” It is in the disappearance of the ego and the union with everything and everyone."
   },
   {
@@ -470,13 +470,13 @@ export const fourthway = [
     "quote": "A basic principle of this school is always to do more than what ordinarily we can do. Only this will lead to change. If we do merely what is possible, we stay as we are. It is necessary to do the impossible."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "Right work on oneself, according to Gurdjieff, begins with the creation of a permanent center of gravity. This distinguishes the stage of being that he called man number four. This is someone who awakes to himself and asks, 'Who am I?' He sees that he does not know he exists, nor how he exists. He sees he is living in a dream and feels a need to know his own reality. He begins to separate things in himself, the real from the imaginary, the conscious from the automatic."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "To know himself has become the most important aim, the center of gravity of his thought and interest. He wishes to see himself as he is. His center of gravity is a question, a question that does not let him sleep. And in order to know himself, he struggles to bring his attention to the point where he can divide it between a Presence that he tries to sustain and a manifestation in which he is lost. This requires a vigilance that can be maintained only if all the centers work with the same intensity."
   },
   {
@@ -520,8 +520,8 @@ export const fourthway = [
     "quote": "I obey the force of my reactions and am lost, identified in my subjective feelings. I believe that by myself I am something, that I need nothing more. I am deaf to the call of a higher force."
   },
   {
-    "author": "Jean Vaysse",
-    "book": "Toward Awakening",
+    "author": "Jeanne de Salzmann",
+    "book": "The Reality of Being",
     "quote": "I can become conscious only when I feel a reality that is higher than myself, when I recognize that without it I am nothing and have no force to resist being taken by identification. Then I can open to this reality and consciously receive its action, be nourished by it. But this requires an attitude that I cannot maintain. Always I return to the feeling of my ordinary 'I,' which does not understand that it must serve. This 'I' is blind. It believes itself free and always returns to its slavery."
   },
   {
