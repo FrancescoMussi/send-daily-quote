@@ -848,5 +848,815 @@ export const fourthway = [
     author: "Maurice Nicoll",
     book: "Psychological Commentaries on the Teaching of Gurdjieff and Ouspensky - Vol IV",
     quote: "Just think how easily upset people are — I am not talking here about being criticized, which is a much more difficult thing. Are most people upset easily? They break a shoe-lace in the morning and instantly curse someone, their breakfast is not according to their taste, and they lose their temper, and the paper does not arrive in time and they get angry and go off and sit in trains fuming. Is not all this very small and absurd."
+  },
+  {
+    author: "Tilopa",
+    book: "Ganges Mahamudra",
+    quote: "When you look into space, seeing stops. Likewise, when mind looks at mind, The flow of thinking stops, And you come to the deepest awakening. Mists rise from the earth and vanish into space. They go nowhere, nor do they stay. Likewise, though thoughts arise, Whenever you see your mind, the clouds of thinking clear. Stop all physical activity: sit naturally at ease. Do not talk or speak: let sound be empty, like an echo. Do not think about anything: look at experience beyond thought. Your body has no core, hollow like bamboo. Your mind goes beyond thought, open like space. Let go of control and rest right there. Mind without projection is mahamudra. Train and develop this and you will come to the deepest awakening. Ambition clouds sheer clarity and you don't see it. Thinking about precepts undermines the point of commitment. Do not think about anything; let all ambition drop. Let what arises settle by itself, like patterns in water. No place, no focus, no missing the point — Do not break this commitment: it is the light in the dark. When you are free from ambition and don't hold any position, You will see all that the scriptures teach. When you open to this, you are free from samsara's prison. When you settle in this, all evil and distortion burn up. This is called \"The Light of the Teaching\". May these pith instructions, the essentials of mahamudra, Abide in the hearts of all worthy beings."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Thoughts, waves of emotions and tensions arise. The thoughts do not come all at once; they arrive one after the other. It is the same with the emotions. When one thought has passed, another arises. But be­tween the two there is an interval, a stop, a space that is extremely important. Behind the movement that has begun and finished, there is a reality that is hidden from me. In this interval I can become aware of what is behind the movement. No thought lasts; what appears must disappear."
+  },
+  {
+    author: "Dilgo Khyentse Rinpoche",
+    book: "The Hundred Verses of Advice",
+    quote: "When you run after your thoughts, you are like a dog chasing a stick; every time a stick is thrown, you run after it. But if, instead, you look at where your thoughts are coming from, you will see that each thought arises and dissolves within the space of that awareness, without engendering other thoughts. Be like a lion, who rather than chasing after the stick, turns to face the thrower. One only throws a stick at a lion once."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "I take my thinking, my thought, as being \"I\" in the same way I take my body as \"I.\" I am always ready to be the victim of my thoughts because I have never disassociated myself from them. I have still not realized what an enormous obstacle they are to the consciousness I seek."
+  },
+  {
+    author: "Ramana Maharshi",
+    book: "Talks with Sri Ramana Maharshi - talk 326",
+    quote: "Everybody complains of the restlessness of the mind. Let the mind be found and then they will know. True, when a man sits down to meditate thoughts rush up by dozens. The mind is only a bundle of thoughts. The attempt to push through the barrage of thoughts is unsuccessful. If one can by any means abide in the Self it is good. For those who are unable to do so, chanting or meditation is prescribed. If one wants to abide in the thought-free state, a struggle is inevitable. One must fight one's way through before regaining one's original primal state. If one succeeds in the fight and reaches the goal, the enemy, namely the thoughts, will all subside in the Self and disappear entirely. The thoughts are the enemy."
+  },
+  {
+    author: "Hesychius of Jerusalem",
+    book: "Texts on Sobriety and Prayer, for the saving of the soul",
+    quote: "If our mind is inexperienced in the practice of watchful sobriety, it immediately attaches itself with predilection to the suggestion which presents itself, whatever it may be, and begins to converse with it."
+  },
+  {
+    author: "Lewis Carroll",
+    book: "Alice in Wonderland",
+    quote: "With a great effort, I recovered the thread of my thoughts. We lapse very quickly into nonsense!"
+  },
+  {
+    author: "Ryōkan",
+    book: "",
+    quote: "Keep your heart clear and transparent, and you will never be bound. A single disturbed thought creates ten thousand distractions."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "In this struggle, everything is in the attention. A single moment of inattention and all is lost."
+  },
+  {
+    author: "Buddhist proverb",
+    book: "",
+    quote: "If you meet the Buddha on the road, kill him!"
+  },
+  {
+    author: "Dilgo Khyentse Rinpoche",
+    book: "The Hundred Verses of Advice",
+    quote: "If we allow our thoughts to arise and dissolve by themselves, they will pass through our mind as a bird flies through the sky, without leaving a trace."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "There is an impression that holds me to the truth of the moment and awakens my attention— the fact that I am breathing. My whole attention is engaged in this act of breathing. I know nothing else. I need to give it all my care. I am one with this feeling of breathing. But I do not try to make a particular effort in breathing. I simply feel the breath— inhale, exhale, inhale, exhale.... Thoughts will appear. I observe them as thoughts, simply passing thoughts. I do not try to get rid of them, nor do I lose myself in them. I see them as without reality. And I come back to the breathing. In this state I do not seek and have no desire. I expect nothing."
+  },
+  {
+    author: "Dilgo Khyentse Rinpoche",
+    book: "The Hundred Verses of Advice",
+    quote: "Meditation could be said to be the Art of Simplicity: simply sitting, simply breathing and simply being."
+  },
+  {
+    author: "Patañjali",
+    book: "Yogasutra I.3",
+    quote: "As a result of yoga or sustained, focused attention, the Self, or Seer, is firmly established in its own form, and we act from a place from our own true, authentic Self."
+  },
+  {
+    author: "Katha Upanishad",
+    book: "",
+    quote: "Brahman, the hidden Self in everyone, Does not shine forth. He is revealed only To those who keep their minds one-pointed On the Lord of Love and thus develop A superconscious manner of knowing. Meditation enables them to go Deeper and deeper into consciousness, From the world of words to the world of thoughts, Then beyond thoughts to wisdom in the Self."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "In order to understand itself, the mind has to be completely still, without illusion. Then with lucidity we can see the insignificance of \"me\" dissolve in an immensity beyond all measure. There is no time, only the present moment."
+  },
+  {
+    author: "Jalaluddin Rumi",
+    book: "",
+    quote: "Look past your thoughts, so you may drink the pure nectar of this moment."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "I wish to penetrate the state before thinking arises. So I observe from where this thought comes. Gently, very quietly, I penetrate the state. Absolute tranquillity is necessary."
+  },
+  {
+    author: "Chandogya Upanishad",
+    book: "",
+    quote: "Purify the mind. In a pure mind there is constant awareness of the Self."
+  },
+  {
+    author: "Bhagavad Gita 6.19",
+    book: "",
+    quote: "When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "There is no more thinking. My mind becomes quiet and sensitive— very alive but quiet. It sees without distortion. Silent observation gives birth to understanding."
+  },
+  {
+    author: "Jalaluddin Rumi",
+    book: "",
+    quote: "The quieter you become the more you are able to hear."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "I have to see that there is a space between thoughts, a void that is reality, and I need to remain as long as possible in this space."
+  },
+  {
+    author: "Bayazid Bastami",
+    book: "",
+    quote: "I never saw any lamp shining more brightly than the lamp of silence"
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Silence is a moment of the greatest energy, a state so intense that everything else seems quiet. It is the quiet itself that is important, silence as the fact itself, not what one obtains through it. We need to discover the nature of silence, when thought, feeling and body are all silent. What takes place when thought is really quiet, and also feeling? The silence… does it become awake to itself? In being attentive to the nature of silence, I feel an intelligence awaken. What is important is its appearance, not what it illuminates. This intelligence is sacred and cannot be at the service of my ego, my ambition."
+  },
+  {
+    author: "Kabir",
+    book: "The Kabir Book: Forty-four of the Ecstatic Poems of Kabir",
+    quote: "If you want the truth, I'll tell you the truth: Listen to the secret sound, the real sound, which is inside you."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "When I open entirely to my Presence, when \"I Am,\" I enter a dif­ferent world where neither time nor space exists. I am one, a whole. Thoughts cease and reason disappears. I feel the \"I.\" Feeling is the es­sential instrument of knowing."
+  },
+  {
+    author: "Mipham Rinpoche",
+    book: "How to Cultivate Concentration",
+    quote: "Return continually to the state of non-distraction, And strive to extend the duration of the experience. When it becomes familiar, apply yourself further. Conquer the enemy, undercurrent thoughts, and generate calm. When you gain stability, Continue until the practice is effortless and you achieve pliancy And genuine śamatha—calm abiding. Apply yourself uninterruptedly, balancing tension and repose. Prolonged training in what is difficult can be discouraging, So begin by strengthening your determination and diligence. Then, in the middle, strive continually without interruption. In the end, you'll gain strength and savour the fruits of joy. This is how your efforts will yield their excellent reward."
+  },
+  {
+    author: "Bhagavad Gita 4.39",
+    book: "",
+    quote: "Those who take wisdom as their highest goal, whose faith is deep and whose senses are trained, attain wisdom quickly and enter into perfect peace."
+  },
+  {
+    author: "Hakuin",
+    book: "Wild Ivy: The Spiritual Autobiography of Zen Master Hakuin",
+    quote: "Supreme Zen, at the highest reaches, does not belong to a dimension that human understanding of any kind can grasp or perceive. It is a matter of simply being Buddhas the way we are right now—'covered bowls of plain unvarnished wood.' It is the state of great happiness and peace, the great liberation. Put a stop to all the chasing and hankering in your mind. Do not interfere or poke around after anything whatever. That mind-free state detached from all thought is the complete and ultimate attainment."
+  },
+  {
+    author: "Thalassios the Libyan",
+    book: "From: McGuckin, John Anthony - The book of mystical chapters.",
+    quote: "Put a seal on your senses by stillness, then sit in judgment over the thoughts, which make a noisy clamor in your heart."
+  },
+  {
+    author: "Milarepa",
+    book: "",
+    quote: "Behold and search your unborn mind; Seek not for satisfaction in samsara. I attain all my knowledge through observing the mind within."
+  },
+  {
+    author: "Raimundo Panikkar",
+    book: "",
+    quote: "There is a monastic archetype or a contemplative dimension innate in every human being."
+  },
+  {
+    author: "Walpola Rahula",
+    book: "What the Buddha Taught",
+    quote: "One of the most well-known, popular and practical examples of 'meditation' connected with the body is called 'The Mindfulness or Awareness of in-and-out breathing' (ānāpānasatt). It is for this 'meditation' only that a particular and definite posture is prescribed in the text. For other forms of 'meditation' given in this sutta, you may sit, stand, walk, or lie down, as you like. Breathe in and out as usual, without any effort or strain. Now, bring your mind to concentrate on your breathing-in and breathing-out; let your mind watch and observe your breathing in and out; let your mind be aware and vigilant of your breathing in and out. Forget all other things, your surroundings, your environment; do not raise your eyes and look at anything. Try to do this for five or ten minutes. At the beginning you will find it extremely difficult to bring your mind to concentrate on your breathing. You will be astonished how your mind runs away. It does not stay. You begin to think of various things. You hear sounds outside. Your mind is disturbed and distracted. You may be dismayed and disappointed. But if you continue to practise this exercise twice daily, morning and evening, for about five or ten minutes at a time, you will gradually, by and by, begin to concentrate your mind on your breathing. After a certain period, you will experience just that split second when your mind is fully concentrated on your breathing, when you will not hear even sounds nearby, when no external world exists for you. This slight moment is such a tremendous experience for you, full of joy, happiness and tranquility, that you would like to continue it. But still you cannot. Yet if you go on practising this regularly, you may repeat the experience again and again for longer and longer periods. That is the moment when you lose yourself completely in your mindfulness of breathing."
+  },
+  {
+    author: "John Klimakos",
+    book: "From: McGuckin, John Anthony - The book of mystical chapters.",
+    quote: "When you are praying, be concentrated, without self-display, closely withdrawn into your heart, for the demons fear concentration more than thieves fear dogs."
+  },
+  {
+    author: "Evagrios of Pontus",
+    book: "From: McGuckin, John Anthony - The book of mystical chapters.",
+    quote: "If you store up grievances and nurse old animosities inside yourself, and then try to pray, you will be like someone going to the well for water with a bucket that is full of holes"
+  },
+  {
+    author: "Claustres Solange",
+    book: "Becoming Conscious",
+    quote: "Meditation is an opening where there is a circulation of energy and the sensation of self. Motionless, one is completely there, present to oneself, one inhabits one's body, one inhabits the whole room."
+  },
+  {
+    author: "Claustres Solange",
+    book: "Becoming Conscious",
+    quote: "To be, it is being, the 'taste' of this is the same in meditation, in Movements, and in life, it is the taste of 'I Am'. It is l AM, it is not this thinking about that, it is being."
+  },
+  {
+    author: "Robert De Ropp",
+    book: "The Master Game",
+    quote: "All inner work involves the imposing of inner silence. To enter the silence as often as possible and to remain there for as long as possible is the goal of all followers of the Way, be they yogis, Sufis, Zen Buddhists or Christian mystics."
+  },
+  {
+    author: "G.I. Gurdjieff",
+    book: "Views From the Real World",
+    quote: "Self-consciousness is the moment when a man is aware both of himself and of his machine. We have it in flashes, but only in flashes. There are moments when you become aware not only of what you are doing but also of yourself doing it. You see both 'I' and the 'here' of 'I am here' – both the anger and the 'I' that is angry. Call this self-remembering, if you like. Now when you are fully and always aware of the 'I' and what it is doing, you become conscious of yourself."
+  },
+  {
+    author: "Henri Thomasson",
+    book: "The Pursuit of The Present: Journal of Twenty Years in The Gurdjieff Work",
+    quote: "To remember myself is to submit myself to the effort which brings me to the concrete sensation of existing in the present moment: 'I, wholly here, where I am, present'."
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "In Search of the Miraculous",
+    quote: "I realized that moments of self-remembering do occur in life, although rarely. Only the deliberate production of these moments created the sensation of novelty. Actually I had been familiar with them from early childhood. They came either in new and unexpected surroundings, in a new place, among new people while traveling, for instance, when suddenly one looks about one and says: How strange! I and in this place; or in very emotional moments, in moments of danger, in moments when it is necessary to keep one's head, when one hears one's own voice and sees and observes oneself from the outside."
+  },
+  {
+    author: "William Patterson",
+    book: "The struggle of the magicians",
+    quote: "To have consciousness of self is not only to be aware of oneself mentally (in which case it would be only the mind looking at the mind), but also physically and emotionally; that is a global awareness... this demands a certain quality and strength of attention, of a direct recognition of the immediate, of what-is, of having an awareness that is global in reference to oneself. Consciousness of self is a state predicated on self-remembering – a conscious awareness of the body, of being embodied, of being connected with what is happening internally, as well as what is happening externally."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "The first step is to recognize that through a certain effort I can live a moment of more complete Presence."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "Question: Is self-remembering the initial process of this system? Answer: It is the centre of the initial process, and it has to go on, it must enter into everything. At first this sounds improbable, because you may try to remember yourself, and then you find that for long periods of time it does not come to your mind; then again you begin to remember about it. But efforts of this kind are never lost; something accumulates and at a certain moment when in the ordinary state you would have been completely identified and submerged in things, you find that you can stand aside and control yourself."
+  },
+  {
+    author: "G.I. Gurdjieff",
+    book: "From: P. D. Ouspensky - In Search of the Miraculous",
+    quote: "It has been explained before that in ordinary conditions of life we do not remember ourselves; we do not remember, that is, we do not feel ourselves, are not aware of ourselves at the moment of a perception, of an emotion, of a thought or of an action. If a man understands this and tries to remember himself, every impression he receives while remembering himself will, so to speak, be doubled."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "In Search of the Miraculous",
+    quote: "I was once walking along the Liteiny towards the Nevsky, and in spite of all my efforts I was unable to keep my attention on self-remembering. The noise, movement, everything distracted me. Every minute I lost the thread of attention, found it again, and then lost it again. At last I felt a kind of ridiculous irritation with myself and I turned into the street on the left having firmly decided to keep my attention on the fact that I would remember myself at least for some time, at any rate until I reached the following street. I reached the Nadejdinskaya without losing the thread of attention except, perhaps, for short moments. Then I again turned towards the Nevsky realizing that, in quiet streets, it was easier for me not to lose the line of thought and wishing therefore to test myself in more noisy streets. I reached the Nevsky still remembering myself, and was already beginning to experience the strange emotional state of inner peace and confidence which comes after great efforts of this kind. Just round the corner on the Nevsky was a tobacconist's shop where they made my cigarettes. Still remembering myself I thought I would call there and order some cigarettes. Two hours later I woke up in the Tavricheskaya, that is, far away. I was going by izvostchik [carriage] to the printers. The sensation of awakening was extraordinarily vivid. I can almost say that I came to. I remembered everything at once. How I had been walking along the Nadejdinskaya, how I had been remembering myself, how I had thought about cigarettes, and how at this thought I seemed all at once to fall and disappear into a deep sleep. At the same time, while immersed in this sleep, I had continued to perform consistent and expedient actions. I left the tobacconist, called at my Hat in the Liteiny, telephoned to the printers. I wrote two letters. Then again I went out of the house. I walked on the left side of the Nevsky up to the Gostinoy Dvor intending to go to the Offitzerskaya. Then I had changed my mind as it was getting late. I had taken an izvostchik and was driving to the Kavalergardskaya to my printers. And on the way while driving along the Tavricheskaya I began to feel a strange uneasiness, as though I had forgotten something.—And suddenly I remembered that I had forgotten to remember myself. I said that European and Western psychology in general had overlooked a fact of tremendous importance, namely, that we do not remember ourselves; that we live and act and reason in deep sleep, not metaphorically but in absolute reality. And also that, at the same time, we can remember ourselves if we make sufficient efforts, that we can awaken."
+  },
+  {
+    author: "Gautama Buddha",
+    book: "",
+    quote: "You are all Buddhas. There is nothing you need to achieve. Just open your eyes."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "In Search of the Miraculous",
+    quote: "After this there followed a strange period of time. It lasted about three weeks. And during this period from time to time I saw \"sleeping people.\" This requires a particular explanation. Two or three days after Gurdjieff's departure I was walking along the Troitsky street and suddenly I saw that the man who was walking towards me was asleep. There could be no doubt whatever about this. Although his eyes were open, he was walking along obviously immersed in dreams which ran like clouds across his face. It entered my mind that if I could look at him long enough I should see his dreams, that is, I should understand what he was seeing in his dreams. But he passed on. After him came another also sleeping. A sleeping izvostchik went by with two sleeping passengers. Suddenly I found myself in the position of the prince in the \"Sleeping Princess.\" Everyone around me was asleep. It was an indubitable and distinct sensation. I realized what it meant that many things could be seen with our eyes which we do not usually see. These sensations lasted for several minutes. Then they were repeated very weakly on the following day. But I at once made the discovery that by trying to remember myself I was able to intensify and prolong these sensations for so long as I had energy enough not to be diverted, that is, not to allow things and everything around me to attract my attention. When attention was diverted I ceased to see \"sleeping people\" because I had obviously gone to sleep myself. I told only a few of our people of these experiments and two of them when they tried to remember themselves had similar experiences."
+  },
+  {
+    author: "Shakespeare",
+    book: "The Tempest",
+    quote: "This is a strange repose, to be asleep with eyes wide open; standing, speaking, moving, and yet so fast asleep."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "We want to awake when we realize that we are asleep. It must be realized emotionally. We must understand that we are helpless in sleep; anything may happen. We can see pictures of life, see why things happen in one way or another, both big and small things, and realize that it is because people are asleep."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "In order to wish to be present, I must see that I am asleep. \"I\" am not here. I am enclosed in a circle of petty interests and avidity in which my \"I\" is lost."
+  },
+  {
+    author: "Robert Earl Burton",
+    book: "Self remembering",
+    quote: "Observing life, we notice that everyone is going somewhere or doing something unrelated to presence."
+  },
+  {
+    author: "Ephesians 5:14",
+    book: "",
+    quote: "For this reason it says, \"Awake, sleeper, And arise from the dead, And Christ will shine on you.\""
+  },
+  {
+    author: "William Blake",
+    book: "Jerusalem",
+    quote: "Awake! awake ! O sleeper of the land of shadows, wake! expand! I am in you and you in me, mutual in love divine."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "When we try to keep all these things in mind and to observe ourselves, we come to the very definite conclusion that in the state of consciousness in which we are, with all this identification, considering, negative emotions and absence of self-remembering, we are really asleep. We only imagine that we are awake. So when we try to remember ourselves it means only one thing, we try to awake. And we do awake for a second but then we fall asleep again. This is our state of being, so actually we are asleep. We can awake only if we correct many things in the machine and if we work very persistently on this idea of awaking, and for a long time."
+  },
+  {
+    author: "Gospel of Mark13:37",
+    book: "",
+    quote: "And what I say to you I say to all: Stay awake."
+  },
+  {
+    author: "D.T. Suzuki",
+    book: "Introduction to Zen Buddhism",
+    quote: "Zen teaches nothing; it merely enables us to wake up and become aware. It does not teach, it points."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "Effort begins only from one thing, the effort to awake."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol I",
+    quote: "The most important thing is self-remembering. You must try to remember yourselves at least once a day, and you must do it willingly, from yourselves. All other work on oneself ultimately depends on self-remembering. Only half a minute is necessary, and even if it consists in nothing else than stopping your thoughts and trying to relax everything, it is better than nothing. Don't think about self-remembering, but do it. At first it is best to do it at some definite time that you decide upon. The first sign that you are doing it rightly is that you have a distinct feeling of force entering you, as if something had opened in you."
+  },
+  {
+    author: "Zoroaster",
+    book: "The Zend Avesta, Part II",
+    quote: "Call for the wisdom that will keep thee awake."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "If you make a serious effort to observe functions for yourself, you will realize that ordinarily, whatever you do, whatever you think, whatever you feel, you do not remember yourself. You do not realize that you are present, that you are here. At the same time you will find that, if you make sufficient efforts for a sufficiently long time, you can increase your capacity for self-remembering. You will begin to remember yourself more often, you will begin to remember yourself more deeply."
+  },
+  {
+    author: "Robert Burton",
+    book: "Self-remembering",
+    quote: "Just trying to be where one is in this moment is self-remembering. Controlling one's mind, which is prone to wander, is an expression of self-remembering."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "I feel the wholeness of Presence. But it only appears when my thinking is free, capable of being here without words. When the thinking changes, the feeling changes. The body also needs to adapt, to be attuned."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "What prevents self-remembering is this constant turning of thoughts. Stop this turning and perhaps you will have a taste of it."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Yet the moment of being present is short. As soon as I come back to myself, the impression makes me think, and in thinking I become separate again. I go away from myself and no longer live in the present. Then, if I see it, the impression of being lost brings me back to myself. This coming back and going away is a normal movement that I need to accept. The feeling of living, of existing, depends on it. My thoughts never stop. When one has passed, another is here, followed by another. I am attached to all of them. But if for a moment a space appears in the thinking, then there is nothing for me to be attached to. I am free. In the silence, the mind can be conscious of each movement of the thinking. This perception is free from reaction, and the energy that results is not mechanical, not the product of thought. It is the energy that spiritual seekers have been looking for throughout the ages."
+  },
+  {
+    author: "Robert Burton",
+    book: "Self-remembering",
+    quote: "Controlling one's mind, which is prone to wander, is an expression of remembering oneself."
+  },
+  {
+    author: "Henriette Lannes",
+    book: "This Fundamental Quest",
+    quote: "Despite a good theoretical understanding of what is at stake, our remembering is weak and almost instantly disappears as soon as there is contact with external facts and events. To live a more persistent remembering is possible only if we accept to see the ease with which we try to escape this return to ourselves. We must ceaselessly remember this state of affairs and recover the meaning and direction of the search. Self-remembering is immense. It has many degrees. We are never fully capable of appreciating a moment of remembering. We still do not have enough vigilance of thought, openness of feeling."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Our attention has no center of gravity. It is not magnetized by a force that has some authority, some power over it, and continues to run wherever it is called."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "In Search of the Miraculous",
+    quote: "By observing in yourself the appearance and disappearance of consciousness you will inevitably see one fact which you neither see nor acknowledge now, and that is that moments of consciousness are very short and are separated by long intervals of completely unconscious, mechanical working of the machine. You will then see that you can think, feel, act, speak, work, without being conscious of it."
+  },
+  {
+    author: "Dhu'l Nun al-Misri",
+    book: "From: Ali Hujwiri - Kashf al-Mahjub",
+    quote: "Ordinary men repent of their sins, but the elect repent of their heedlessness"
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "If my force of attention is entirely taken, I am lost in life, identified, asleep. All my capacity to be present is lost. I lose myself, the feeling of myself. My existence loses its meaning. So, the first step is a separation in which my attention is divided."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "In Search of the Miraculous",
+    quote: "When I observe something, my attention is directed towards what I observe – a line with one arrowhead. When at the same time, I try to remember myself, my attention is directed both towards the object observed and towards myself. A second arrowhead appears on the line. Having defined this I saw that the problem consisted in directing attention on oneself without weakening or obliterating the attention directed on something else."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "Question: Why is it so difficult to control attention? Answer: Lack of habit. We are too accustomed to letting things happen. When we want to control attention or something else, we find it difficult, just as physical work is difficult if we are not accustomed to it."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of celestial influence",
+    quote: "When one begins to see that one can only begin to remember oneself for seconds at a time, it seems negligible. But what one must understand is that it is difficult exactly because it is the beginning of a new state for us, the key to a new world. If it were easy and if results came more quickly it could not have the importance which it has."
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "When one awakes for a moment, one realizes that generally one is asleep, that one is not conscious, and how dangerous it is. The more you put into it, the more you understand it, the better the result will be. If you realize what you lose by not remembering yourself and what you gain by remembering yourself, you will have a greater incentive for making efforts to self-remember."
+  },
+  {
+    author: "Henriette Lannes",
+    book: "This Fundamental Quest",
+    quote: "Only when we succeed in gathering our attention and relaxing does our body become capable of opening. If these inner conditions are brought together and maintained for a certain time, a true feeling – without words, without images – can appear for a few moments within ourselves. At the moment of this experience, which is like no other, we sense a new vibration that transmits the taste of a more secret, more subtle life. We realize, then, that the capacity to be there has been given us."
+  },
+  {
+    author: "Thich Nhat Hanh",
+    book: "",
+    quote: "Every one of us already has the seed of mindfulness. The practice is to cultivate it."
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "We must realize that the capacity for remembering oneself is our right. We do not have it, but we can have it; we have all the necessary organs for it, so to speak, but we are not trained, not accustomed to using them."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "This perfect attention is a possibility given by Nature."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol I",
+    quote: "The third state of Consciousness is defined as a state of Self- Remembering. The teaching of the Work is to lift us up to this state which we should have and which we were born to have. In this third state of Consciousness, at this level, influences can reach us which can help. It is as if we put our heads above the water and felt the air and the sunlight. If any of you are trying to remember yourselves at any moment of the day and if you do it at whatever moment you can and quite sincerely, you will always notice a sudden brightness round you."
+  },
+  {
+    author: "Robert Earl Burton",
+    book: "Self remembering",
+    quote: "This moment offer as many possibilities as any other time of the day, or any other time in your life. You must work well with whatever the present offers."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "There is always something we can do at certain moments. You must know these moments, and what to do, and how. We are studying doors. Self-remembering is a door. If the realization that we do not remember ourselves becomes continuous, then we can remember ourselves. Every day you can find time to realize that you do not remember yourself; this will gradually bring you to self-remembering."
+  },
+  {
+    author: "Robert Earl Burton",
+    book: "Self remembering",
+    quote: "Each moment offers the possibility of penetrating the present. You must use your time well, remembering that your time is counted."
+  },
+  {
+    author: "Ta-hui Tsung-kao",
+    book: "",
+    quote: "Meditation in the midst of activity is a thousand times superior to meditation in stillness"
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "I know that the feeling of Presence is not strong. It quickly goes away. It is bound to go because I cannot sustain the effort. But I can repeat."
+  },
+  {
+    author: "Shantideva",
+    book: "The Way of the Bodhisattva",
+    quote: "At all times and in any situation, how can I make mindfulness my constant habit?"
+  },
+  {
+    author: "Liu Yiming",
+    book: "The Taoist I Ching",
+    quote: "So the path of alert observation should never be departed from start to finish by those who practice the Tao."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "We must squeeze all its contents out of each moment."
+  },
+  {
+    author: "Robert Burton",
+    book: "Self-remembering",
+    quote: "Self-remembering has no momentum; one must make effort, moment"
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "Even if we put the same amount of energy into self­ remembering that we put into the study of a foreign language we would acquire a certain amount of consciousness. Unfortunately we do not want to put even that amount of energy into it; we think that these things must come by themselves, or that it is enough to try once— and it must come. Self-remembering needs effort, so, if you continue to make these efforts, moments of consciousness will come more often and will stay longer. Then, gradually, self-remembering will cease to be purely intellectual—it will have an awakening power."
+  },
+  {
+    author: "Robert Earl Burton",
+    book: "Self remembering",
+    quote: "Self-remembering has a cumulative effect, and the more you remember yourself, the more you will be able to remember yourself."
+  },
+  {
+    author: "Bateke proverb",
+    book: "",
+    quote: "You learn how to cut down trees by cutting them down."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "I begin to have a wish To Be and feel myself as a whole, but I am all the time confronted with my own automatism. On one side, there is a movement of unity that opens me to new perception, and the other, an inexorable movement to dispersion. This confrontation calls forth in me a force that I did not suspect, an attention that otherwise would never need to appear. The attention that leads to a moment of consciousness is the fire which brings about a transformation."
+  },
+  {
+    author: "St. John Chrysostom",
+    book: "",
+    quote: "Undertake this work with attention, for those who are inattentive pray in vain, pronouncing only words, while their heart wanders elsewhere."
+  },
+  {
+    author: "Zhuangzi",
+    book: "",
+    quote: "You will always find an answer in the sound of water"
+  },
+  {
+    author: "Robert Burton",
+    book: "Self-remembering",
+    quote: "One of the best way to be present is to listen."
+  },
+  {
+    author: "Zen haiku",
+    book: "",
+    quote: "A heavy snowfall disappears into the sea. What silence!"
+  },
+  {
+    author: "Zen story",
+    book: "",
+    quote: "One day while walking through the wilderness a man stumbled upon a vicious tiger. He ran, but soon came to the edge of a high cliff. Desperate to save himself, he climbed down a vine and dangled over the fatal precipice... As he hung there, two mice appeared from a hole in the cliff and began gnawing on the vine... Suddenly, he noticed on the vine a plump wild strawberry. He plucked it and popped it in his mouth... It was incredibly delicious, the best strawberry he ever had!"
+  },
+  {
+    author: "Gautama Buddha",
+    book: "",
+    quote: "Nirvana is this moment seen directly. There is no where else than here. The only gate is now. The only doorway is your own body and mind. There's nowhere to go. There's nothing else to be. There's no destination. It's not something to aim for in the afterlife. It's simply the quality of this moment."
+  },
+  {
+    author: "Gospel of Thomas - Verse 5",
+    book: "",
+    quote: "Recognize what is before you and what is hidden shall be revealed to you."
+  },
+  {
+    author: "Thich Nhat Hanh",
+    book: "The Miracle of Mindfulness",
+    quote: "Drink your tea slowly and reverently, as if it is the axis on which the world earth revolves – slowly, evenly, without rushing toward the future. Live the actual moment. Only this moment is life"
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol I",
+    quote: "The work is about a certain transformation of the instant, of the moment, of the present."
+  },
+  {
+    author: "Matsuo Basho - haiku",
+    book: "",
+    quote: "Old pond A frog jumps in The sound of water"
+  },
+  {
+    author: "Al-Hujwiri",
+    book: "Kashf-ul-Mahjoob",
+    quote: "The Sufi is whole heartedly present: his soul is where his body is, and his body where his soul is."
+  },
+  {
+    author: "Shunryu Suzuki",
+    book: "Zen Mind, Beginner's Mind",
+    quote: "When you do something, you should do it with your whole body and mind; you should be concentrated on what you do."
+  },
+  {
+    author: "Robert Earl Burton",
+    book: "Self remembering",
+    quote: "When you eat, taste your food. When you listen, make your ears work and don't just let them hang around. Look with active, not passive vision. Your heart will lead you, and it knows what is right."
+  },
+  {
+    author: "Zen Tale",
+    book: "",
+    quote: "After ten years of apprenticeship, Tenno achieved the rank of Zen teacher. One rainy day, he went to visit the famous master Nan-in. When he walked in, the master greeted him with a question, \"Did you leave your wooden clogs and umbrella on the porch?\" \"Yes,\" Tenno replied. \"Tell me,\" the master continued, \"did you place your umbrella to the left of your shoes, or to the right?\" Tenno did not know the answer, and realized that he had not yet attained full awareness. So he became Nan-in's apprentice and studied under him for ten more years."
+  },
+  {
+    author: "Gospel of Thomas - verse 91",
+    book: "",
+    quote: "They said to him, Tell us who you are so that we may believe in you. He said to them, You examine the face of heaven and earth, but you have not come to know the one who is in your presence, and you do not know how to examine the present moment."
+  },
+  {
+    author: "Zoroaster",
+    book: "",
+    quote: "One need not scale the heights of the heavens, nor travel along the highways of the world to find Ahura Mazda. With purity of mind and holiness of heart one can find Him in one's own heart."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "In order to be assimilated and transformed, impressions have to be received by essence. This requires a conscious effort at the moment of the impression. And it requires a definite feeling, a feeling of love for being, for being present. We must respond to impressions no longer from the vantage point of personality but from love for being present."
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "To remember oneself means the same thing as to be aware of oneself 'I am'."
+  },
+  {
+    author: "Exodus 3.14",
+    book: "",
+    quote: "God said to Moses, \"I am who I am. This is what you are to say to the Israelites: 'I AM has sent me to you.'\""
+  },
+  {
+    author: "Robert Burton",
+    book: "Self-remembering",
+    quote: "All the moments in which we penetrated the present are indestructible. As for the rest, it is only wasted time."
+  },
+  {
+    author: "G.I. Gurdjieff",
+    book: "Inscribed in a special script above the walls of the Study House at the Prieure",
+    quote: "Remember yourself always and everywhere."
+  },
+  {
+    author: "Abdul Khaliq Ghijduwani",
+    book: "Principles of the Naqshbandi Sufi Order, translated by John Bennett",
+    quote: "1. Hush der dem. Be present at every breath. Do not let your attention wander for the duration of a single breath. Remember yourself always and in all situations. 2. Nazar ber kadem. Keep your intention before you at every step you take. You wish for freedom and you must never forget it. 3. Safar der vatan. Your journey is toward your homeland. Remember that you are traveling from the World of Appearances to the World of Reality. 4. Halvat der endjuman. Solitude in the crowd. In all your outward activity, remain inwardly free. Learn not to identify yourself with anything whatsoever. 5. Yad gerd. Remember your Friend, i.e., God. Let the prayer (zikr) of your tongue be the prayer of your heart (q'alb). 6. Baz gasht. Return to God. No aim but to attain Reality. 7. Nigah dasht. Struggle with all alien thoughts. Keep your mind on what you are doing, whether outwardly or inwardly. 8. Yad dasht. Be constantly aware of the quality of the Divine Presence. Become used to recognizing the presence of God in your heart."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol II",
+    quote: "Self-Remembering cannot be explained in so many words because it is an experience, of greater or lesser intensity."
+  },
+  {
+    author: "Jean Vaysse",
+    book: "Toward Awakening",
+    quote: "In us, things do themselves-speaking, laughing, feeling, acting-but they do it automatically and we ourselves are not there."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "Practicing the Power of Now",
+    quote: "The mind is a superb instrument if used rightly. Used wrongly, however, it becomes very destructive. To put it more accurately, it is not so much that you use your mind wrongly — you usually don't use it at all. It uses you. This is the disease. You believe that you are your mind. This is the delusion. The instrument has taken you over."
+  },
+  {
+    author: "Jean Vaysse",
+    book: "Toward Awakening",
+    quote: "It is only in beginning to \"remember himself\" that a man really begins to awaken: in trying to rediscover, collect, and live what, behind these personages, he feels to be more truly himself. This effort brings an \"impression of oneself\" with a special \"taste\" which cannot be mistaken - when a man experiences it, he begins to be less imposed upon by his personality. What this effort actually implies cannot be described in words: it is a personal experience which like all experience of consciousness only has meaning when it is lived through and at the moment it is lived through, and only for the man who lives through it."
+  },
+  {
+    author: "Ouspensky, Taylor Merrily",
+    book: "Conscience: The Search for Truth",
+    quote: "According to the system we are studying, man has the possibility of four states of consciousness. They are: sleep, waking state, self-consciousness and objective consciousness. But although he has the possibility of these four states of consciousness man actually lives only in two states: one part of his life passes in sleep, and the other part in what is called 'waking state', though in reality it differs very little from sleep. In reference to the third state of consciousness we can say that man has occasional moments of selfconsciousness, but he has no command over them. They come and go by themselves, being controlled by external circumstances and occasional associations or emotions. The question arises: Is it possible to acquire command over these fleeting moments of consciousness, to evoke them more often and to keep them longer, or even make them permanent. The first or the lowest state of consciousness is sleep. . . . Man is surrounded by dreams . . . Purely subjective pictures. The second degree of consciousness comes when man awakes. This second state — the state in which we are now; the state in which we work, talk, imagine ourselves conscious beings and so forth — we ordinarily call 'waking consciousness' or 'clear consciousness', but really it should be called 'waking sleep' or 'relative consciousness' if we want to have more prolonged periods of self-consciousness and not merely glimpses, we must understand that they cannot come by themselves. They need will action. This means that frequency and duration of moments of self-consciousness depend on the command one has over oneself. Acquiring self-consciousness means long and hard work"
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "So, at the same time as self-observing, we try to be aware of ourselves by holding the sensation of 'I am here'—nothing more. And this is the fact that all Western psychology, without the smallest exception, has missed. Although many people came very near to it, they did not recognize the importance of this fact and did not realize that the state of man as he is can be changed—that man can remember himself, if he tries for a long time. It is not a question of a day or a month. It is a very long study, and a study of how to remove obstacles, because we do not remember ourselves, we are not conscious of ourselves, owing to many wrong functions in our machine, and all these functions have to be corrected and put right. When most of these functions are put right, these periods of self-remembering will become longer and longer, and if they become sufficiently long, we shall acquire two new functions. With self-consciousness, which is the third state of consciousness, we acquire a function which is called higher emotional, although it is equally intellectual, because on this level there is no difference between intellectual and emotional such as there is on the ordinary level. And when we come to the state of objective consciousness we acquire another function which is called higher mental. Phenomena of what I call supernormal psychology belong to these two functions."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "As you go more deeply into this realm of no-mind, as it is sometimes called in the East, you realize the state of pure consciousness. In that state, you feel your own presence with such intensity and such joy that all thinking, all emotions, your physical body, as well as the whole external world become relatively insignificant in comparison to it. And yet this is not a selfish but a selfless state. It takes you beyond what you previously thought of as \"your self.\" That presence is essentially you and at the same time inconceivably greater than you."
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "Continue to observe and you will find that there is a place in you where you are quiet, calm, and nothing can disturb you—only it is difficult to find the way there. But if you do it several times you will be able to remember some of the steps, and by the same steps you may come there again. Only you cannot do it after one experience, for you will not remember the way. This quiet place is not a metaphor—it is a very real thing."
+  },
+  {
+    author: "Robert De Ropp",
+    book: "The Master Game",
+    quote: "The legitimate road to the fourth room and the fifth [3rd and 4th states of consciousness] lies through the silent world, the world of simple awareness, beyond words, beyond thoughts."
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "Self-awareness is the greatest change possible, because in ordinary conditions of life nobody is aware of himself, and yet people do not realize this."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "The first step is to recognize that through a certain effort I can live a moment of more complete Presence."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "I must see that if I am not present, I serve only my ordinary self"
+  },
+  {
+    author: "William Walker Atkinson",
+    book: "A Series of Lessons in Raja Yoga",
+    quote: "After the Candidate has acquired a degree of mastery he will be able to obtain the physical relaxation and mental calm whenever and wherever he desires. But he must guard against acquiring a \"dreamy\" way of going around, wrapped in meditation when he should be attending to the affairs of life. The Initiates are not \"day dreamers\" but men and women having full control of themselves and their moods."
+  },
+  {
+    author: "Brother Lawrence",
+    book: "The Practice of the Presence of God",
+    quote: "It is a great delusion to think that the times of prayer ought to differ from other times; we are equally bound to be united to God by work as by prayer."
+  },
+  {
+    author: "Walpola Rahula",
+    book: "What the Buddha Taught",
+    quote: "Another very important, practical, and useful form of 'meditation' (mental development) is to be aware and mindful of whatever you do, physically or verbally, during the daily routine of work in your life, private, public or professional. Whether you walk, stand, sit, lie down, or sleep, whether you stretch or bend your limbs, whether you look around, whether you put on your clothes, whether you talk or keep silence, whether you eat or drink, even whether you answer the calls of nature—in these and other activities, you should be fully aware and mindful of the act you perform at the moment. That is to say, that you should live in the present moment, in the present action."
+  },
+  {
+    author: "Suzuki, D.T.",
+    book: "An Introduction to Zen Buddhism",
+    quote: "A monk once went to Gensha, and wanted to learn where the entrance to the path of truth was. Gensha asked him, \"Do you hear the murmuring of the brook?\" \"Yes, I hear it,\" answered the monk. \"There is the entrance,\" the master instructed him."
+  },
+  {
+    author: "Sharfuddin Maneri",
+    book: "Letters from a Sufi Teacher",
+    quote: "Nothing is more binding upon you than to seek God. If you go to market, seek Him. If you come home, seek Him. If you enter a tavern, seek Him. If the Angel of Death come to you, take care not to neglect the Seeking. Tell him, \"Do thou thy work, I do mine\"..."
+  },
+  {
+    author: "Thich Nhat Hanh",
+    book: "Zen Keys",
+    quote: "You wash your hands, you dress yourself, you perform every- day actions as before; but now you are aware of all your actions, words, and thoughts."
+  },
+  {
+    author: "Thich Nhat Hanh",
+    book: "No Mud, No Lotus",
+    quote: "To be mindful means to be aware. It's the energy that knows what is happening in the present moment. Lifting our arms and knowing that we're lifting our arms—that's mindfulness, mindfulness of our action. When we breathe in and we know we're breathing in, that's mindfulness. When we make a step and we know that the steps are taking place, we are mindful of the steps. Mindfulness is always mindfulness of something. It's the energy that helps us be aware of what is happening right now and right here, in our body, in our feelings, in our perceptions, and around us."
+  },
+  {
+    author: "Thich Nhat Hanh",
+    book: "No Mud, No Lotus",
+    quote: "When we bring our mind home to our body, something wonderful happens; our mental discourse stops its chattering."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "Instead of \"watching the thinker,\" you can also create a gap in the mind stream simply by directing the focus of your attention into the Now. Just become intensely conscious of the present moment. This is a deeply satisfying thing to do. In this way, you draw consciousness away from mind activity and create a gap of no-mind in which you are highly alert and aware but not thinking. This is the essence of meditation."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "Use your senses fully. Be where you are. Look around. Just look, don't interpret. See the light, shapes, colors, textures. Be aware of the silent presence of each thing. Be aware of the space that allows everything to be. Listen to the sounds; don't judge them. Listen to the silence underneath the sounds. Touch something — anything — and feel and acknowledge its Being. Observe the rhythm of your breathing; feel the air flowing in and out, feel the life energy inside your body. Allow everything to be, within and without. Allow the \"isness\" of all things. Move deeply into the Now."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "Practicing the Power of Now",
+    quote: "Use your senses fully. Be where you are. Look around. Just look, don't interpret. See the light, shapes, colors, textures. Be aware of the silent presence of each thing. Be aware of the space that allows everything to be. Listen to the sounds;"
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Attention is the essential energy in man. And this energy can only appear when one is constantly occupied in seeing, in listening, in questioning."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "I need a state of extreme vigilance, asking nothing, expecting nothing, living the moment itself. This vigilance is the proper activity of the mind, its power. We call it attention."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Lucidity, observation that takes place across an inner space, dis­solves all forms of conditioning. To be lucid is to be conscious of the way we walk, we sit, we use our hands, and to listen to the way we speak and the words we use. It is to observe all our thoughts, emotions and reactions in a state of attention that is clear and whole, that has no limits. Lucidity is being totally conscious of oneself."
+  },
+  {
+    author: "William Walker Atkinson",
+    book: "A Series of Lessons in Raja Yoga",
+    quote: "Voluntary Attention requires effort, will, and determination — a certain mental training, that is beyond the majority of people, for they will not \"take the trouble\" to direct their attention in this way."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "In your everyday life, you can practice this by taking any routine activity that normally is only a means to an end and giving it your fullest attention, so that it becomes an end in itself. […] Be totally present. Or when you wash your hands, pay attention to all the sense perceptions associated with the activity: the sound and feel of the water, the movement of your hands, the scent of the soap, and so on."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "Practicing the Power of Now",
+    quote: "In your everyday life, you can practice this by taking any routine activity that normally is only a means to an end and giving it your fullest attention, so that it becomes an end in itself. For example, every time you walk up and down the stairs in your house or place of work, pay close attention to every step, every movement, even your breathing. Be totally present. There is one certain criterion by which you can measure your success in this practice: the degree of peace that you feel within."
+  },
+  {
+    author: "Claustres Solange",
+    book: "Becoming Conscious",
+    quote: "Conscious attention in this teaching is a new and different attitude in relationship to oneself. It is the practice of an intentional attention, directed towards one or several parts of self: thoughts, associations, emotions, sensations, or actions - here, now, an immediate and intentional act of seeing, of perception at each and every moment, of what is felt, sensed, thought."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "When a man first hears about self-remembering, if he takes it seriously, all kinds of new possibilities immediately seem open to him. He can not understand why he never thought of it before. He feels that he has only to do this, and all his doubts, artificialities and difficulties will disappear, and all kinds of things will become possible and easy for him, which before he regarded as completely beyond his reach. His whole life will be transformed. In this feeling he is both right and wrong. He is quite right in the belief that if he could remember himself all would be as different as he imagines. Only he does not at first see the enormous resistance in himself to mastering this new state. He does not realise that to achieve self-remembering as a permanent state, or even to achieve frequently recurring moments of it, he must completely reconstruct his life. For this task will require most of the fine matter that his machine can save or make, all the will and attention he can develop by the most constant exercise. He will have to struggle against and eventually give up all the psychopathic ways of burning up this fine matter, which now form such a familiar and apparently necessary part of his life - rancour, irritation, indignation, self-pity, all kinds of fears, all kinds of dreams, all the ways in which he hypnotizes himself into satisfaction with things as they are. Above all, he must want to remember himself, constantly and permanently, no matter how painful and uncomfortable it may be to do so, nor how unpleasant the things which he thus sees in himself and other people. For the moment he ceases to want to remember himself, he loses - at any rate for some time - the possibility of doing so."
+  },
+  {
+    author: "Luke 12:35",
+    book: "",
+    quote: "Be dressed ready for service and keep your lamps burning."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "\"Be like a servant waiting for the return of the master\" says Jesus. The servant does not know at what hour the master is going to come. So he stays awake, alert, poised, still, lest he miss the master's arrival. In another parable, Jesus speaks of the five careless (unconscious) women who do not have enough oil (consciousness) to keep their lamps burning (stay present) and so miss the bridegroom (the Now) and don't get to the wedding feast (enlightenment). These five stand in contrast to the five wise women who have enough oil (stay conscious)."
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "There is nothing in life that cannot become work if one tries to remember oneself."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol II",
+    quote: "Full Self-Remembering is a state of consciousness in which the Personality and all its pretences almost cease to exist and you are, so to speak, nobody, and yet the fullness of this state, which is really bliss, makes you, for the first time, somebody."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol II",
+    quote: "It has often been said that unless you believe in something higher you cannot remember yourself. There is a certain emotional feeling always connected with Self-Remembering. You cannot just in cold blood remember yourself. It is necessary to get into a certain state, whereas one can observe oneself without getting into this particular state. If you feel the extraordinariness of your own existence, if you feel the miracle of your body, of your consciousness, of the world that surrounds you, if you begin to wonder who you are, then you are in the state necessary for Self-Remembering."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "Become aware of a silent but powerful sense of presence. There is one certain criterion by which you can measure your success in this practice: the degree of peace that you feel within."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "To be identified with your mind is to be trapped in time: the compulsion to live almost exclusively through memory and anticipation. This creates an endless preoccupation with past and future and an unwillingness to honor and acknowledge the present moment and allow it to be. The eternal present is the space within which your whole life unfolds, the one factor that remains constant. Life is now. There was never a time when your life was not now, nor will there ever be. Despite this, it seems to have remained a secret. It is certainly not taught in churches and temples. If you go to a church, you may hear readings from the Gospels such as \"Take no thought for the morrow; for the morrow shall take thought for the things of itself,\" or \"Nobody who puts his hands to the plow and looks back is fit for the Kingdom of God.\" Or you might hear the passage about the beautiful flowers that are not anxious about tomorrow but live with ease in the timeless Now and are provided for abundantly by God. The depth and radical nature of these teachings are not recognized. No one seems to realize that they are meant to be lived and so bring about a profound inner transformation. So break the old pattern of present-moment denial and present-moment resistance. Make it your practice to withdraw attention from past and future whenever they are not needed. Step out of the time dimension as much as possible in everyday life. If you find it hard to enter the Now directly, start by observing the habitual tendency of your mind to want to escape from the Now. If you set yourself a goal and work toward it, you are using clock time. You are aware of where you want to go, but you honor and give your fullest attention to the step that you are taking at this moment. If you then become excessively focused on the goal, perhaps because you are seeking happiness, fulfillment, or a more complete sense of self in it, the Now is no longer honored. It becomes reduced to a mere stepping stone to the future, with no intrinsic value. Clock time then turns into psychological time. Your life's journey is no longer an adventure, just an obsessive need to arrive, to attain, to \"make it.\" You no longer see or smell the flowers by the wayside either, nor are you aware of the beauty and the miracle of life that unfolds all around you when you are present in the Now."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "To alert you that you have allowed yourself to be taken over by psychological time, you can use a simple criterion. Ask yourself: Is there joy, ease, and lightness in what I am doing? If there isn't, then time is covering up the present moment, and life is perceived as a burden or a struggle. As soon as you honor the present moment, all unhappiness and struggle dissolve, and life begins to flow with joy and ease. When you act out of present-moment awareness, whatever you do becomes imbued with a sense of quality, care, and love—even the most simple action."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "Practicing the Power of Now",
+    quote: "When a thought subsides, you experience a discontinuity in the mental stream — a gap of \"no-mind.\" At first, the gaps will be short, a few seconds perhaps, but gradually they will become longer. When these gaps occur, you feel a certain stillness and peace inside you. This is the beginning of your natural state of felt oneness with Being, which is usually obscured by the mind. With practice, the sense of stillness and peace will deepen. In fact, there is no end to its depth. You will also feel a subtle emanation of joy arising from deep within: the joy of Being."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "Practicing the Power of Now",
+    quote: "To alert you that you have allowed yourself to be taken over by psychological time, you can use a simple criterion. Ask yourself: Is there joy, ease, and lightness in what I am doing? If there isn't, then time is covering up the present moment, and life is perceived as a burden or a struggle. If there is no joy, ease, or lightness in what you are doing, it does not necessarily mean that you need to change what you are doing. It may be sufficient to change the how. \"How\" is always more important than \"what.\" See if you can give much more attention to the doing than to the result that you want to achieve through it. Give your fullest attention to whatever the moment presents. As soon as you honor the present moment, all unhappiness and struggle dissolve, and life begins to flow with joy and ease. When you act out of present-moment awareness, whatever you do becomes imbued with a sense of quality, care, and love—even the most simple action."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "The Power of Now",
+    quote: "To stay present in everyday life, it helps to be deeply rooted within yourself; otherwise, the mind, which has incredible momentum, will drag you along like a wild river. What do you mean by \"rooted within yourself\"? It means to inhabit your body fully. To always have some of your attention in the inner energy field of your body. To feel the body from within, so to speak. Body awareness keeps you present. It anchors you in the Now. Please try it now. You may find it helpful to close your eyes for this practice. Later on, when \"being in the body\" has become natural and easy, this will no longer be necessary. Direct your attention into the body. Feel it from within. Is it alive? Is there life in your hands, arms, legs, and feet—in your abdomen, your chest? Can you feel the subtle energy field that pervades the entire body and gives vibrant life to every organ and every cell? Can you feel it simultaneously in all parts of the body as a single field of energy? Keep focusing on the feeling of your inner body for a few moments. Do not start to think about it. Feel it. The more attention you give it, the clearer and stronger this feeling will become. Please examine where your attention is at this moment. You are listening to me, or you are reading these words in a book. That is the focus of your attention. You are also peripherally aware of your surroundings, other people, and so on. Furthermore, there may be some mind activity around what you are hearing or reading, some mental commentary. Yet there is no need for any of this to absorb all your attention. See if you can be in touch with your inner body at the same time. Keep some of your attention within. Don't let it all flow out. Feel your whole body from within, as a single field of energy. It is almost as if you were listening or reading with your whole body. Let this be your practice in the days and weeks to come. When you can feel the inner body clearly as a single field of energy, let go, if possible, of any visual image and focus exclusively on the feeling. If you can, also drop any mental image you may still have of the physical body. All that is left then is an all-encompassing sense of presence or \"beingness,\" and the inner body is felt to be without a boundary. Then take your attention even more deeply into that feeling. Become one with it. Merge with the energy field, so that there is no longer a perceived duality of the observer and the observed, of you and your body."
+  },
+  {
+    author: "Eckhart Tolle",
+    book: "Practicing the Power of Now",
+    quote: "To become conscious of Being, you need to reclaim consciousness from the mind. This is one of the most essential tasks on your spiritual journey. It will free vast amounts of consciousness that previously had been trapped in useless and compulsive thinking. A very effective way of doing this is simply to take the focus of your attention away from thinking and direct it into the body."
+  },
+  {
+    author: "Robert De Ropp",
+    book: "The Master Game",
+    quote: "Only by work, by a steady, unremitting effort can he learn to stop the wheel of the imagination, to halt that flood of inner conversations, arguments, mere chatter, with which the roof brain, by its useless overactivity, floods the awareness from dawn to dusk. While this noise persists, no deep awareness is possible. So for one who really wishes to practice Creative Psychology, the first rule is very simple: enter the silence as often as possible; remain there for as long as possible. Stop thoughts! In the quiet which follows, like the healing silence after a long political speech, permit the impressions brought by each separate sense to float on the surface of a calm awareness. The eye rests on the objects of sight, not naming them, not desiring, passing no judgments. The shapes of buildings, the texture of trees and grass, of clouds and earth, take on a meaning so new, so fresh and so exciting that they seem on the point of relating their innermost secrets. A horse, a cow, a stray dog, a skinny cat furtively snatching a morsel from an overturned garbage can, all speak in a wordless language of their innermost condition."
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "Struggle with associative thinking is a definite line of work. If you study something, listen to something or are trying to understand something, you have to do it with a free mind. If you go on with your own thoughts at the same time, your mind will never be free to follow."
+  },
+  {
+    author: "Robert De Ropp",
+    book: "The Master Game",
+    quote: "Two forms of activity must be clearly distinguished: intentional doing; mechanical happening. In large activities, in small activities, set definite limits. I have such a thing to do. I will allow myself so much time in which to do it. Clearly visualize the process, the tools involved, the materials involved, the forces involved. Such preparation may make all the difference between accidental happening and intentional doing. To keep the watchman awake work as quickly as possible. If the watchman is awake, stray impressions will be excluded as well as wandering thoughts. If the activity does not go as planned, if an error is made, if some persistent daydream distracts awareness -- STOP! Stop all activity. Return to the starting point. Redefine the intention. Start again. Strive all the while to keep the inner silence, to practice simple awareness, to receive impressions simply and directly."
   }
 ]
