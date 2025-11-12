@@ -732,12 +732,7 @@ export const tolle = [
   {
     "author": "Eckhart Tolle",
     "book": "The Power of Now",
-    "quote": "ENLIGHTENED RELATIONSHIP On the psychological level, the sense of lack and incompleteness is, if anything, even greater than on the physical level. As long as you are identified with the mind, you have an externally derived sense of self. That is to say, you get your sense of who you are from things that ultimately have nothing to do with who you are: your social role, possessions, external appearance, successes and failures, belief systems, and so on. This false, mind-made self, the ego, feels vulnerable, insecure, and is always seeking new things to identify with to give it a feeling that it exists. But nothing is ever enough to give it lasting fulfillment. Its fear remains; its sense of lack and neediness remains."
-  },
-  {
-    "author": "Eckhart Tolle",
-    "book": "The Power of Now",
-    "quote": "The greatest catalyst for change in a relationship is complete acceptance of your partner as he or she is, without needing to judge or change them in any way. That immediately takes you beyond ego."
+    "quote": "On the psychological level, the sense of lack and incompleteness is, if anything, even greater than on the physical level. As long as you are identified with the mind, you have an externally derived sense of self. That is to say, you get your sense of who you are from things that ultimately have nothing to do with who you are: your social role, possessions, external appearance, successes and failures, belief systems, and so on. This false, mind-made self, the ego, feels vulnerable, insecure, and is always seeking new things to identify with to give it a feeling that it exists. But nothing is ever enough to give it lasting fulfillment. Its fear remains; its sense of lack and neediness remains."
   },
   {
     "author": "Eckhart Tolle",
@@ -788,11 +783,6 @@ export const tolle = [
     "author": "Eckhart Tolle",
     "book": "The Power of Now",
     "quote": "Most of the so-called bad things that happen in people’s lives are due to unconsciousness. They are self-created, or rather ego-created. I sometimes refer to those things as “drama.” When you are fully conscious, drama does not come into your life anymore. Let me remind you briefly how the ego operates and how it creates drama. Ego is the unobserved mind that runs your life when you are not present as the witnessing consciousness, the watcher. The ego perceives itself as a separate fragment in a hostile universe, with no real inner connection to any other being, surrounded by other egos which it either sees as a potential threat or which it will attempt to use for its own ends. The basic ego patterns are designed to combat its own deep-seated fear and sense of lack. They are resistance, control, power, greed, defense, attack. Some of the ego’s strategies are extremely clever, yet they never truly solve any of its problems, simply because the ego itself is the problem."
-  },
-  {
-    "author": "Eckhart Tolle",
-    "book": "The Power of Now",
-    "quote": "When egos come together, whether in personal relationships or in organizations or institutions, “bad” things happen sooner or later: drama of one kind or another, in the form of conflict, problems, power struggles, emotional or physical violence, and so on. This includes collective evils such as war, genocide, and exploitation — all due to massed unconsciousness."
   },
   {
     "author": "Eckhart Tolle",
@@ -948,16 +938,6 @@ export const tolle = [
     "author": "Eckhart Tolle",
     "book": "The Power of Now",
     "quote": "As far as the still unconscious majority of the population is concerned, only a critical limit-situation has the potential to crack the hard shell of the ego and force them into surrender and so into the awakened state. A limit-situation arises when through some disaster, drastic upheaval, deep loss, or suffering your whole world is shattered and doesn’t make sense anymore. It is an encounter with death, be it physical or psychological. The egoic mind, the creator of this world, collapses. Out of the ashes of the old world, a new world can then come into being."
-  },
-  {
-    "author": "Eckhart Tolle",
-    "book": "The Power of Now",
-    "quote": "There is no guarantee, of course, that even a limit-situation will do it, but the potential is always there. Some people’s resistance to what is even intensifies in such a situation, and so it becomes a descent into hell. In others, there may only be partial surrender, but even that will give them a certain depth and serenity that were not there before. Parts of the ego shell break off, and this allows small amounts of the radiance and peace that lie beyond the mind to shine through. So whenever any kind of disaster strikes, or something goes seriously “wrong”—illness, disability, loss of home or fortune or of a socially defined identity, breakup of a close relationship, death or suffering of a loved one, or your own impending death—know that there is another side to it, that you are just one step away from something incredible: a complete alchemical transmutation of the base metal of pain and suffering into gold. That one step is called surrender."
-  },
-  {
-    "author": "Eckhart Tolle",
-    "book": "The Power of Now",
-    "quote": "I do not mean to say that you will become happy in such a situation. You will not. But fear and pain will become transmuted into an inner peace and serenity that come from a very deep place—from the Unmanifested itself. It is “the peace of God, which passes all understanding.” Compared to that, happiness is quite a shallow thing."
   },
   {
     "author": "Eckhart Tolle",
