@@ -1538,5 +1538,30 @@ export const fourthway = [
     author: "Robert De Ropp",
     book: "The Master Game",
     quote: "Two forms of activity must be clearly distinguished: intentional doing; mechanical happening. In large activities, in small activities, set definite limits. I have such a thing to do. I will allow myself so much time in which to do it. Clearly visualize the process, the tools involved, the materials involved, the forces involved. Such preparation may make all the difference between accidental happening and intentional doing. To keep the watchman awake work as quickly as possible. If the watchman is awake, stray impressions will be excluded as well as wandering thoughts. If the activity does not go as planned, if an error is made, if some persistent daydream distracts awareness -- STOP! Stop all activity. Return to the starting point. Redefine the intention. Start again. Strive all the while to keep the inner silence, to practice simple awareness, to receive impressions simply and directly."
+  },
+  {
+    author: "Aldous Huxley",
+    book: "Island",
+    quote: `It's dark because you are trying too hard.
+      Lightly child, lightly. Learn to do everything lightly.
+      Yes, feel lightly even though you're feeling deeply.
+      Just lightly let things happen and lightly cope with them.
+
+      I was so preposterously serious in those days, such a humorless little prig.
+      Lightly, lightly – it's the best advice ever given me.
+      When it comes to dying even. Nothing ponderous, or portentous, or emphatic.
+      No rhetoric, no tremolos,
+      no self conscious persona putting on its celebrated imitation of Christ or Little Nell.
+      And of course, no theology, no metaphysics.
+      Just the fact of dying and the fact of the clear light.
+
+      So throw away your baggage and go forward.
+      There are quicksands all about you, sucking at your feet,
+      trying to suck you down into fear and self-pity and despair.
+      That's why you must walk so lightly.
+      Lightly my darling,
+      on tiptoes and no luggage,
+      not even a sponge bag,
+      completely unencumbered.`
   }
 ]

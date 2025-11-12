@@ -12,6 +12,9 @@ const escapeHtml = s =>
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;')
 
+const escapeHtmlAndPreserveBreaks = s =>
+  escapeHtml(s).replace(/\n/g, '<br>')
+
 const getRandomQuote = (quotes) => quotes[Math.floor(Math.random() * quotes.length)]
 
 export default async function handler(req, res) {
@@ -98,7 +101,7 @@ You're receiving this because you subscribed to Daily Inspiration.`
                 <tr>
                   <td>
                     <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
-                      ${escapeHtml(fourthwayQuote.quote)}
+                      ${escapeHtmlAndPreserveBreaks(fourthwayQuote.quote)}
                     </div>
                   </td>
                 </tr>
@@ -117,7 +120,7 @@ You're receiving this because you subscribed to Daily Inspiration.`
                 <tr>
                   <td>
                     <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
-                      ${escapeHtml(tolleQuote.quote)}
+                      ${escapeHtmlAndPreserveBreaks(tolleQuote.quote)}
                     </div>
                   </td>
                 </tr>
