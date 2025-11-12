@@ -770,51 +770,6 @@ export const fourthway = [
     quote: "When thinking of the anima as the soul guide, we are apt to think of Beatrice leading Dante up to Paradise, but we should not forget that he experienced that only after he had gone through Hell. Normally, the anima does not take a man by the hand and lead him right up to Paradise; she puts him first into a hot cauldron where he is nicely roasted for a while."
   },
   {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "The pain that you create now is always some form of nonacceptance, some form of unconscious resistance to what is. On the level of thought, the resistance is some form of judgment. On the emotional level, it is some form of negativity. The intensity of the pain depends on the degree of resistance to the present moment, and this in turn depends on how strongly you are identified with your mind. The mind always seeks to deny the Now and to escape from it. In other words, the more you are identified with your mind, the more you suffer. Or you may put it like this: the more you are able to honor and accept the Now, the more you are free of pain, of suffering — and free of the egoic mind."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "Sustained conscious attention severs the link between the pain-body and your thought processes and brings about the process of transmutation. It is as if the pain becomes fuel for the flame of your consciousness, which then burns more brightly as a result. This is the esoteric meaning of the ancient art of alchemy: the transmutation of base metal into gold, of suffering into consciousness. The split within is healed, and you become whole again."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "Whenever you feel negativity arising within you, whether caused by an external factor, a thought, or even nothing in particular that you are aware of, look on it as a voice saying \"Attention. Here and Now. Wake up.\" Even the slightest irritation is significant and needs to be acknowledged and looked at; otherwise, there will be a cumulative buildup of unobserved reactions. As I said before, you may be able to just drop it once you realize that you don't want to have this energy field inside you and that it serves no purpose. But then make sure that you drop it completely. If you cannot drop it, just accept that it is there and take your attention into the feeling. […] As an alternative to dropping a negative reaction, you can make it disappear by imagining yourself becoming transparent to the external cause of the reaction. I recommend that you practice it with little, even trivial, things first. Let's say that you are sitting quietly at home. Suddenly, there is the penetrating sound of a car alarm from across the street. Irritation arises. What is the purpose of the irritation? None whatsoever. Why did you create it? You didn't. The mind did. It was totally automatic, totally unconscious. Why did the mind create it? Because it holds the unconscious belief that its resistance, which you experience as negativity or unhappiness in some form, will somehow dissolve the undesirable condition. This, of course, is a delusion. The resistance that it creates, the irritation or anger in this case, is far more disturbing than the original cause that it is attempting to dissolve. […] All this can be transformed into spiritual practice. Feel yourself becoming transparent, as it were, without the solidity of a material body. Now allow the noise, or whatever causes a negative reaction, to pass right through you. It is no longer hitting a solid \"wall\" inside you. As I said, practice with little things first. The car alarm, the dog barking, the children screaming, the traffic jam. Instead of having a wall of resistance inside you that gets constantly and painfully hit by things that \"should not be happening,\" let everything pass through you. […] Somebody says something to you that is rude or designed to hurt. Instead of going into unconscious reaction and negativity, such as attack, defense, or withdrawal, you let it pass right through you. Offer no resistance. It is as if there is nobody there to get hurt anymore. That is forgiveness. In this way, you become invulnerable. You can still tell that person that his or her behavior is unacceptable, if that is what you choose to do. But that person no longer has the power to control your inner state. You are then in your power—not in someone else's, nor are you run by your mind. Whether it is a car alarm, a rude person, a flood, an earthquake, or the loss of all your possessions, the resistance mechanism is the same."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "Become an alchemist. Transmute base metal into gold, suffering into consciousness, disaster into enlightenment."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "Find the \"narrow gate that leads to life.\" It is called the Now. Narrow your life down to this moment. Your life situation may be full of problems—most life situations are—but find out if you have any problem at this moment. Not tomorrow or in ten minutes, but now. Do you have a problem now? When you are full of problems, there is no room for anything new to enter, no room for a solution. So whenever you can, make some room, create some space, so that you find the life underneath your life situation."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "When you enter this timeless dimension of the present, change often comes about in strange ways without the need for a great deal of doing on your part. Life becomes helpful and cooperative. If inner factors such as fear, guilt, or inertia prevented you from taking action, they will dissolve in the light of your conscious presence."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "Start by acknowledging that there is a resistance. Be there when it happens, when the resistance arises. Observe how your mind creates it, how it labels the situation, yourself, or others. Look at the thought process involved. Feel the energy of the emotion. By witnessing the resistance, you will see that it serves no purpose. By focusing all your attention on the Now, the unconscious resistance is made conscious, and that is the end of it."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "If you were conscious, that is to say totally present in the Now, all negativity would dissolve almost instantly. It could not survive in your presence. It can only survive in your absence."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "Not until you surrender does the spiritual dimension become a living reality in your life. When you do, the energy that you emanate and which then runs your life is of a much higher vibrational frequency than the mind energy that still runs our world. Through surrender, spiritual energy comes into this world. It creates no suffering for yourself, for other humans, or any other life form on the planet."
-  },
-  {
     author: "Lorenzo Scupoli",
     book: "Spiritual combat",
     quote: "God permits this for your greater good. Remember that this is the war in which the Saints have carried off crowns of great merit"
@@ -1297,7 +1252,7 @@ export const fourthway = [
   {
     author: "Robert Burton",
     book: "Self-remembering",
-    quote: "Self-remembering has no momentum; one must make effort, moment"
+    quote: "Self-remembering has no momentum; one must make effort, moment to moment."
   },
   {
     author: "P.D. Ouspensky",
@@ -1440,11 +1395,6 @@ export const fourthway = [
     quote: "In us, things do themselves-speaking, laughing, feeling, acting-but they do it automatically and we ourselves are not there."
   },
   {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "The mind is a superb instrument if used rightly. Used wrongly, however, it becomes very destructive. To put it more accurately, it is not so much that you use your mind wrongly — you usually don't use it at all. It uses you. This is the disease. You believe that you are your mind. This is the delusion. The instrument has taken you over."
-  },
-  {
     author: "Jean Vaysse",
     book: "Toward Awakening",
     quote: "It is only in beginning to \"remember himself\" that a man really begins to awaken: in trying to rediscover, collect, and live what, behind these personages, he feels to be more truly himself. This effort brings an \"impression of oneself\" with a special \"taste\" which cannot be mistaken - when a man experiences it, he begins to be less imposed upon by his personality. What this effort actually implies cannot be described in words: it is a personal experience which like all experience of consciousness only has meaning when it is lived through and at the moment it is lived through, and only for the man who lives through it."
@@ -1458,11 +1408,6 @@ export const fourthway = [
     author: "P.D. Ouspensky",
     book: "The Fourth Way",
     quote: "So, at the same time as self-observing, we try to be aware of ourselves by holding the sensation of 'I am here'—nothing more. And this is the fact that all Western psychology, without the smallest exception, has missed. Although many people came very near to it, they did not recognize the importance of this fact and did not realize that the state of man as he is can be changed—that man can remember himself, if he tries for a long time. It is not a question of a day or a month. It is a very long study, and a study of how to remove obstacles, because we do not remember ourselves, we are not conscious of ourselves, owing to many wrong functions in our machine, and all these functions have to be corrected and put right. When most of these functions are put right, these periods of self-remembering will become longer and longer, and if they become sufficiently long, we shall acquire two new functions. With self-consciousness, which is the third state of consciousness, we acquire a function which is called higher emotional, although it is equally intellectual, because on this level there is no difference between intellectual and emotional such as there is on the ordinary level. And when we come to the state of objective consciousness we acquire another function which is called higher mental. Phenomena of what I call supernormal psychology belong to these two functions."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "As you go more deeply into this realm of no-mind, as it is sometimes called in the East, you realize the state of pure consciousness. In that state, you feel your own presence with such intensity and such joy that all thinking, all emotions, your physical body, as well as the whole external world become relatively insignificant in comparison to it. And yet this is not a selfish but a selfless state. It takes you beyond what you previously thought of as \"your self.\" That presence is essentially you and at the same time inconceivably greater than you."
   },
   {
     author: "P.D. Ouspensky",
@@ -1530,21 +1475,6 @@ export const fourthway = [
     quote: "When we bring our mind home to our body, something wonderful happens; our mental discourse stops its chattering."
   },
   {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "Instead of \"watching the thinker,\" you can also create a gap in the mind stream simply by directing the focus of your attention into the Now. Just become intensely conscious of the present moment. This is a deeply satisfying thing to do. In this way, you draw consciousness away from mind activity and create a gap of no-mind in which you are highly alert and aware but not thinking. This is the essence of meditation."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "Use your senses fully. Be where you are. Look around. Just look, don't interpret. See the light, shapes, colors, textures. Be aware of the silent presence of each thing. Be aware of the space that allows everything to be. Listen to the sounds; don't judge them. Listen to the silence underneath the sounds. Touch something — anything — and feel and acknowledge its Being. Observe the rhythm of your breathing; feel the air flowing in and out, feel the life energy inside your body. Allow everything to be, within and without. Allow the \"isness\" of all things. Move deeply into the Now."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "Use your senses fully. Be where you are. Look around. Just look, don't interpret. See the light, shapes, colors, textures. Be aware of the silent presence of each thing. Be aware of the space that allows everything to be. Listen to the sounds;"
-  },
-  {
     author: "Jeanne de Salzmann",
     book: "The Reality of Being",
     quote: "Attention is the essential energy in man. And this energy can only appear when one is constantly occupied in seeing, in listening, in questioning."
@@ -1565,16 +1495,6 @@ export const fourthway = [
     quote: "Voluntary Attention requires effort, will, and determination — a certain mental training, that is beyond the majority of people, for they will not \"take the trouble\" to direct their attention in this way."
   },
   {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "In your everyday life, you can practice this by taking any routine activity that normally is only a means to an end and giving it your fullest attention, so that it becomes an end in itself. […] Be totally present. Or when you wash your hands, pay attention to all the sense perceptions associated with the activity: the sound and feel of the water, the movement of your hands, the scent of the soap, and so on."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "In your everyday life, you can practice this by taking any routine activity that normally is only a means to an end and giving it your fullest attention, so that it becomes an end in itself. For example, every time you walk up and down the stairs in your house or place of work, pay close attention to every step, every movement, even your breathing. Be totally present. There is one certain criterion by which you can measure your success in this practice: the degree of peace that you feel within."
-  },
-  {
     author: "Claustres Solange",
     book: "Becoming Conscious",
     quote: "Conscious attention in this teaching is a new and different attitude in relationship to oneself. It is the practice of an intentional attention, directed towards one or several parts of self: thoughts, associations, emotions, sensations, or actions - here, now, an immediate and intentional act of seeing, of perception at each and every moment, of what is felt, sensed, thought."
@@ -1590,11 +1510,6 @@ export const fourthway = [
     quote: "Be dressed ready for service and keep your lamps burning."
   },
   {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "\"Be like a servant waiting for the return of the master\" says Jesus. The servant does not know at what hour the master is going to come. So he stays awake, alert, poised, still, lest he miss the master's arrival. In another parable, Jesus speaks of the five careless (unconscious) women who do not have enough oil (consciousness) to keep their lamps burning (stay present) and so miss the bridegroom (the Now) and don't get to the wedding feast (enlightenment). These five stand in contrast to the five wise women who have enough oil (stay conscious)."
-  },
-  {
     author: "P.D. Ouspensky",
     book: "The Fourth Way",
     quote: "There is nothing in life that cannot become work if one tries to remember oneself."
@@ -1608,41 +1523,6 @@ export const fourthway = [
     author: "Maurice Nicoll",
     book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol II",
     quote: "It has often been said that unless you believe in something higher you cannot remember yourself. There is a certain emotional feeling always connected with Self-Remembering. You cannot just in cold blood remember yourself. It is necessary to get into a certain state, whereas one can observe oneself without getting into this particular state. If you feel the extraordinariness of your own existence, if you feel the miracle of your body, of your consciousness, of the world that surrounds you, if you begin to wonder who you are, then you are in the state necessary for Self-Remembering."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "Become aware of a silent but powerful sense of presence. There is one certain criterion by which you can measure your success in this practice: the degree of peace that you feel within."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "To be identified with your mind is to be trapped in time: the compulsion to live almost exclusively through memory and anticipation. This creates an endless preoccupation with past and future and an unwillingness to honor and acknowledge the present moment and allow it to be. The eternal present is the space within which your whole life unfolds, the one factor that remains constant. Life is now. There was never a time when your life was not now, nor will there ever be. Despite this, it seems to have remained a secret. It is certainly not taught in churches and temples. If you go to a church, you may hear readings from the Gospels such as \"Take no thought for the morrow; for the morrow shall take thought for the things of itself,\" or \"Nobody who puts his hands to the plow and looks back is fit for the Kingdom of God.\" Or you might hear the passage about the beautiful flowers that are not anxious about tomorrow but live with ease in the timeless Now and are provided for abundantly by God. The depth and radical nature of these teachings are not recognized. No one seems to realize that they are meant to be lived and so bring about a profound inner transformation. So break the old pattern of present-moment denial and present-moment resistance. Make it your practice to withdraw attention from past and future whenever they are not needed. Step out of the time dimension as much as possible in everyday life. If you find it hard to enter the Now directly, start by observing the habitual tendency of your mind to want to escape from the Now. If you set yourself a goal and work toward it, you are using clock time. You are aware of where you want to go, but you honor and give your fullest attention to the step that you are taking at this moment. If you then become excessively focused on the goal, perhaps because you are seeking happiness, fulfillment, or a more complete sense of self in it, the Now is no longer honored. It becomes reduced to a mere stepping stone to the future, with no intrinsic value. Clock time then turns into psychological time. Your life's journey is no longer an adventure, just an obsessive need to arrive, to attain, to \"make it.\" You no longer see or smell the flowers by the wayside either, nor are you aware of the beauty and the miracle of life that unfolds all around you when you are present in the Now."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "To alert you that you have allowed yourself to be taken over by psychological time, you can use a simple criterion. Ask yourself: Is there joy, ease, and lightness in what I am doing? If there isn't, then time is covering up the present moment, and life is perceived as a burden or a struggle. As soon as you honor the present moment, all unhappiness and struggle dissolve, and life begins to flow with joy and ease. When you act out of present-moment awareness, whatever you do becomes imbued with a sense of quality, care, and love—even the most simple action."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "When a thought subsides, you experience a discontinuity in the mental stream — a gap of \"no-mind.\" At first, the gaps will be short, a few seconds perhaps, but gradually they will become longer. When these gaps occur, you feel a certain stillness and peace inside you. This is the beginning of your natural state of felt oneness with Being, which is usually obscured by the mind. With practice, the sense of stillness and peace will deepen. In fact, there is no end to its depth. You will also feel a subtle emanation of joy arising from deep within: the joy of Being."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "To alert you that you have allowed yourself to be taken over by psychological time, you can use a simple criterion. Ask yourself: Is there joy, ease, and lightness in what I am doing? If there isn't, then time is covering up the present moment, and life is perceived as a burden or a struggle. If there is no joy, ease, or lightness in what you are doing, it does not necessarily mean that you need to change what you are doing. It may be sufficient to change the how. \"How\" is always more important than \"what.\" See if you can give much more attention to the doing than to the result that you want to achieve through it. Give your fullest attention to whatever the moment presents. As soon as you honor the present moment, all unhappiness and struggle dissolve, and life begins to flow with joy and ease. When you act out of present-moment awareness, whatever you do becomes imbued with a sense of quality, care, and love—even the most simple action."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "To stay present in everyday life, it helps to be deeply rooted within yourself; otherwise, the mind, which has incredible momentum, will drag you along like a wild river. What do you mean by \"rooted within yourself\"? It means to inhabit your body fully. To always have some of your attention in the inner energy field of your body. To feel the body from within, so to speak. Body awareness keeps you present. It anchors you in the Now. Please try it now. You may find it helpful to close your eyes for this practice. Later on, when \"being in the body\" has become natural and easy, this will no longer be necessary. Direct your attention into the body. Feel it from within. Is it alive? Is there life in your hands, arms, legs, and feet—in your abdomen, your chest? Can you feel the subtle energy field that pervades the entire body and gives vibrant life to every organ and every cell? Can you feel it simultaneously in all parts of the body as a single field of energy? Keep focusing on the feeling of your inner body for a few moments. Do not start to think about it. Feel it. The more attention you give it, the clearer and stronger this feeling will become. Please examine where your attention is at this moment. You are listening to me, or you are reading these words in a book. That is the focus of your attention. You are also peripherally aware of your surroundings, other people, and so on. Furthermore, there may be some mind activity around what you are hearing or reading, some mental commentary. Yet there is no need for any of this to absorb all your attention. See if you can be in touch with your inner body at the same time. Keep some of your attention within. Don't let it all flow out. Feel your whole body from within, as a single field of energy. It is almost as if you were listening or reading with your whole body. Let this be your practice in the days and weeks to come. When you can feel the inner body clearly as a single field of energy, let go, if possible, of any visual image and focus exclusively on the feeling. If you can, also drop any mental image you may still have of the physical body. All that is left then is an all-encompassing sense of presence or \"beingness,\" and the inner body is felt to be without a boundary. Then take your attention even more deeply into that feeling. Become one with it. Merge with the energy field, so that there is no longer a perceived duality of the observer and the observed, of you and your body."
-  },
-  {
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "To become conscious of Being, you need to reclaim consciousness from the mind. This is one of the most essential tasks on your spiritual journey. It will free vast amounts of consciousness that previously had been trapped in useless and compulsive thinking. A very effective way of doing this is simply to take the focus of your attention away from thinking and direct it into the body."
   },
   {
     author: "Robert De Ropp",
