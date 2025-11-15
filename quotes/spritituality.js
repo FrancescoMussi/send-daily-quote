@@ -1,4 +1,4 @@
-export const fourthway = [
+export const spirituality = [
   {
     author: "P.D. Ouspensky",
     book: "A new model of the universe",
