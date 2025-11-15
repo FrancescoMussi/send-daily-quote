@@ -1,6 +1,7 @@
 import { Resend } from 'resend'
 import { tolle } from '../quotes/tolle.js'
 import { fourthway } from '../quotes/fourthway.js'
+import { psychology } from '../quotes/psychology.js'
 
 const resend = new Resend(process.env.RESEND_API_KEY)
 
@@ -36,6 +37,7 @@ export default async function handler(req, res) {
   try {
     const tolleQuote = getRandomQuote(tolle)
     const fourthwayQuote = getRandomQuote(fourthway)
+    const psychologyQuote = getRandomQuote(psychology)
     const today = new Date().toLocaleDateString('en-US', {
       weekday: 'long',
       year: 'numeric',
@@ -56,6 +58,10 @@ ${fourthwayQuote.book ? `(${fourthwayQuote.book})` : ''}
 "${tolleQuote.quote}"
 — ${tolleQuote.author}
 ${tolleQuote.book ? `(${tolleQuote.book})` : ''}
+
+"${psychologyQuote.quote}"
+— ${psychologyQuote.author}
+${psychologyQuote.book ? `(${psychologyQuote.book})` : ''}
 
 Have a wonderful day!
 You're receiving this because you subscribed to Daily Inspiration.`
@@ -134,6 +140,25 @@ You're receiving this because you subscribed to Daily Inspiration.`
             </td>
           </tr>
           <tr>
+            <td style="padding:0 28px 36px 28px">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td>
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.7;color:#1f2937;text-align:center;padding:20px 16px;background:#f8fafc;border-left:4px solid #3b82f6;border-radius:8px" class="quote bar">
+                      ${escapeHtmlAndPreserveBreaks(psychologyQuote.quote)}
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding-top:18px">
+                    <div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:16px;color:#4b5563" class="author">— ${escapeHtml(psychologyQuote.author)}</div>
+                    ${psychologyQuote.book ? `<div style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:13px;color:#6b7280;margin-top:6px;font-style:italic" class="muted">${escapeHtml(psychologyQuote.book)}</div>` : ''}
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
             <td style="padding:20px 24px;border-top:1px solid #e5e7eb;background:#f8fafc;border-bottom-left-radius:12px;border-bottom-right-radius:12px">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
                 <tr>
@@ -179,6 +204,11 @@ You're receiving this because you subscribed to Daily Inspiration.`
           quote: tolleQuote.quote,
           author: tolleQuote.author,
           book: tolleQuote.book
+        },
+        {
+          quote: psychologyQuote.quote,
+          author: psychologyQuote.author,
+          book: psychologyQuote.book
         }
       ],
       emailId: data.id
