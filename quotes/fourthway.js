@@ -792,12 +792,6 @@ export const fourthway = [
     quote: "A certain amount of courage of the higher sort is also needed. One also needs calmness and poise."
   },
   {
-    id: "4th-132",
-    author: "Phil Stutz, Barry Michels",
-    book: "The Tools",
-    quote: "There may be many positive things in your future—great joy and fulfillment. But inevitably, life will never exempt you from facing more pain. Once you accept this, your goal will no longer be for pain to stop; it will be to increase your tolerance for it."
-  },
-  {
     id: "4th-133",
     author: "Robert Burton",
     book: "Self-remembering",
@@ -876,12 +870,6 @@ export const fourthway = [
     quote: "Suffering has its beneficial aspects. It can be an excellent teacher."
   },
   {
-    id: "4th-146",
-    author: "Phil Stutz, Barry Michels",
-    book: "The Tools",
-    quote: "Pain is the universe's way of demanding that you continue to learn."
-  },
-  {
     id: "4th-147",
     author: "Mabel Collins",
     book: "Light on the Path",
@@ -912,12 +900,6 @@ export const fourthway = [
     quote: "If you want to experience what the end of suffering will feel like, it is in the here and the now with this breath. If you want nirvana, it's right here."
   },
   {
-    id: "4th-152",
-    author: "Phil Stutz, Barry Michels",
-    book: "The Tools",
-    quote: "What if every bad thing that's ever happened to you—including every problem you've ever had—was there, in your life, to get you in touch with abilities you never knew you had?"
-  },
-  {
     id: "4th-153",
     author: "Robert Johnson",
     book: "Owning your own shadow",
@@ -940,12 +922,6 @@ export const fourthway = [
     author: "Sharfuddin Maneri",
     book: "Letters from a Sufi Teacher",
     quote: "God has concealed precious gifts under the difficulties He has imposed upon these men (i.e. the disciples). A disciple should manfully discharge his duties without fail, in spite of the hardships and trials of the Path, God does not work in one way only, and it is difficult to know which way will lead the disciple to Him — joy or sorrow, gifts or privation. There is a divine secret underneath all sufferings and enjoyments in the world."
-  },
-  {
-    id: "4th-157",
-    author: "Phil Stutz, Barry Michels",
-    book: "The Tools",
-    quote: "I now knew that we live in a deeply caring universe that has a purpose for each of us. I had felt its love working in my own life in a way I couldn't have imagined. How could such a universe not teach us what we needed to learn?"
   },
   {
     id: "4th-158",
@@ -2916,12 +2892,6 @@ export const fourthway = [
     quote: "Dost thou know why so many obstacles have been set up on the Path? — In order that the devotee may gradually develop strength, and be able to see the Beloved without a veil."
   },
   {
-    id: "4th-486",
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "What is the greatest obstacle to experiencing this reality? Identification with your mind, which causes thought to become compulsive. Not to be able to stop thinking is a dreadful affliction, but we don't realize this because almost everybody is suffering from it, so it is considered normal."
-  },
-  {
     id: "4th-487",
     author: "Maurice Nicoll",
     book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol I",
@@ -3690,12 +3660,6 @@ export const fourthway = [
     quote: "Be on the alert, and take no step without due caution, for Time is a penalty to the heedless."
   },
   {
-    id: "4th-615",
-    author: "Eckhart Tolle",
-    book: "The Power of Now",
-    quote: "When you have had your first few glimpses of the timeless state of consciousness, you begin to move back and forth between the dimensions of time and presence. First you become aware of just how rarely your attention is truly in the Now. But to know that you are not present is a great success: That knowing is presence—even if initially it only lasts for a couple of seconds of clock time before it is lost again. Then, with increasing frequency, you choose to have the focus of your consciousness in the present moment rather than in the past or future, and whenever you realize that you had lost the Now, you are able to stay in it not just for a couple of seconds, but for longer periods. […] You lose the Now, and you return to it, again and again. Eventually, presence becomes your predominant state."
-  },
-  {
     id: "4th-616",
     author: "William Walker Atkinson",
     book: "Fourteen Lessons in Yogi Philosophy and Oriental Occultism",
@@ -3721,14 +3685,683 @@ export const fourthway = [
   },
   {
     id: "4th-620",
-    author: "Eckhart Tolle",
-    book: "Practicing the Power of Now",
-    quote: "When you have had your first few glimpses of the timeless state of consciousness, you begin to move back and forth between the dimensions of time and presence. First you become aware of just how rarely your attention is truly in the Now. But to know that you are not present is a great success: That knowing is presence—even if initially it only lasts for a couple of seconds of clock time before it is lost again. Then, with increasing frequency, you choose to have the focus of your consciousness in the present moment rather than in the past or future, and whenever you realize that you had lost the Now, you are able to stay in it not just for a couple of seconds, but for longer periods. Eventually, presence becomes your predominant state."
-  },
-  {
-    id: "4th-621",
     author: "Swami Radhanath",
     book: "The journey within - Exploring the path of bhakti",
     quote: "There's very little in life we can accomplish without discipline. It's discipline and determination that allow one to pursue goals and overcome obstacles. This is especially true for those on a spiritual path. Laziness, cowardliness, and egotism are obstacles to spiritual progress, and overcoming them takes strength of character. The Bhagavad Gita (2.41) states, \"Those who are on this path are resolute in purpose, and their aim is one."
+  },
+    {
+    author: "Ayn Rand",
+    book: "",
+    quote: "Do not let your fire go out, spark by irreplaceable spark in the hopeless swamps of the not-quite, the not-yet, and the not-at-all. Do not let the hero in your soul perish in lonely frustration for the life you deserved and have never been able to reach. The world you desire can be won."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol. I",
+    quote: "We have to remember something we have all forgotten. Life is very short; we lose ourselves too early in life. Do not drift. Take hold of yourself and ask: \"What am I doing? Where am I going? \" Think what you must do before it is too late; think what it is important for you to work on."
+  },
+  {
+    author: "Jalaluddin Rumi",
+    book: "",
+    quote: "Stop acting so small. You are the universe in ecstatic motion."
+  },
+  {
+    author: "Hakuin",
+    book: "Wild Ivy: The Spiritual Autobiography of Zen Master Hakuin",
+    quote: "Strive diligently, all of you! Do not allow yourselves to be content with meager gains. If you climb a mountain, go all the way to the top."
+  },
+  {
+    author: "Shabkar",
+    book: "Life of Shabkar, The: The Autobiography of a Tibetan Yogin",
+    quote: "Right now, when the power to ascend or fall is in your hands, you must give up the negative actions that will lead you to the inferior realms, and by all means accomplish the sublime Dharma that will cause you to ascend."
+  },
+  {
+    author: "G.I. Gurdjieff",
+    book: "From P.D. Ouspensky - In Search of the Miraculous",
+    quote: "How can one awaken? How can one escape this sleep? These questions are the most important, the most vital that can ever confront a man."
+  },
+  {
+    author: "Robert Burton",
+    book: "Self-remembering",
+    quote: "It is difficult to awaken, yet it can be done. One cannot awaken unless one makes total commitment to one's evolution."
+  },
+  {
+    author: "Patañjali",
+    book: "Yogasutra I.3",
+    quote: "For those of us who were not born into states of higher consciousness or knowing, we must cultivate self-confidence and conviction to help us maintain our persistence and strength, and to remember our direction so that we may attain our goal of a focused mind and clear perception."
+  },
+  {
+    author: "Ryokan",
+    book: "",
+    quote: "I want to walk in the straight path, for a thousand years, as if they were a single day."
+  },
+  {
+    author: "Gospel of Matthew",
+    book: "",
+    quote: "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol III",
+    quote: "The secret lies in taking your life as an exercise. Then you see your life as a miraculous adventure"
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "At a certain moment one inevitably reaches the conclusion that this Work is the only one that is worth doing. Then everything else becomes important only in proportion to the extent to which it prepares for or helps or supports this Work. Later still one realises that nearly everything—in any case, everything normal can become affiliated with, and related to the main work."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "Believe in the impossible, for then you will find it possible. Make yourself quiet, ask your heart what you are to believe and do, then cling to that and do it with all the force you can muster."
+  },
+  {
+    author: "Gospel of Thomas",
+    book: "",
+    quote: "Jesus said, Congratulations to the person who has toiled and has found life."
+  },
+  {
+    author: "Gospel of Thomas",
+    book: "",
+    quote: "The disciples said to Jesus, Tell us what Heaven's kingdom is like. He said to them, It's like a mustard seed, the smallest of all seeds, but when it falls on prepared soil, it produces a large plant and becomes a shelter for birds of the sky"
+  },
+  {
+    author: "Gospel of Matthew",
+    book: "",
+    quote: "And he said, \"Whoever discovers the interpretation of these sayings will not taste death.\""
+  },
+  {
+    author: "Zoroaster",
+    book: "",
+    quote: "With an open mind, seek and listen to all the highest ideals. Consider the most enlightened thoughts. Then choose your path, person by person, each for oneself"
+  },
+  {
+    author: "Matsuo Bashō",
+    book: "",
+    quote: "Do not seek to follow in the footsteps of the wise. Instead, seek what they sought."
+  },
+  {
+    author: "Yamamoto Tsunetomo",
+    book: "Hagakure (The Book of the Samurai)",
+    quote: "It is spiritless to think that you cannot attain to that which you have seen and heard the masters attain. The masters are men. You are also a man."
+  },
+  {
+    author: "G.I. Gurdjieff",
+    book: "Views from the real world",
+    quote: "Every man can do whatever others can do. If one man can, everyone can. Genius, talent, is all nonsense."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "There is so much to do. So much which is being given as celestial influence and has to be carried by us into human manifestation. All types and qualities are needed in this performance, both in groups and those scattered on their own about the world. By finding himself, his own possibilities, each person finds his role in the Great Work."
+  },
+  {
+    author: "Sri Aurobindo",
+    book: "The Hour of God",
+    quote: "Humanity is, upon earth, the form of life chosen for this human aspiration & divine accomplishment; all other forms of life either do not need it or are ordinarily incapable of it unless they change into humanity. The divine fullness is therefore the sole real aim of humanity."
+  },
+  {
+    author: "Ibn Arabi",
+    book: "",
+    quote: "God sleeps in the rock, dreams in the plant, stirs in the animal, and awakens in man."
+  },
+  {
+    author: "Rodney Collin",
+    book: "",
+    quote: "I was in the presence of God; I was sent to earth; My wings were taken; My body entered matter; My soul was caught by matter; The earth sucked me down; I came to rest. I am inert; Longing arises; I gather my strength; Will is born; I receive and meditate; I adore the Trinity; I am in the presence of God."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Whatever the state in which I find myself at this moment, whatever the sense of the force I manifest, the highest possibilities are here, hidden by the thick screen of my passivity in believing in my self-sufficiency. My destiny begins when I feel the call of another force in me and respond to it voluntarily. This is my first voluntary act, becoming available to a reality that changes my purpose for living."
+  },
+  {
+    author: "Hafez",
+    book: "",
+    quote: "It is written on the gate of heaven: Nothing in existence is more powerful than destiny. And destiny brought you here, to this page, which is part of your ticket - as all things are - to return to God."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "I understand very well when people feel that their contact with the Work must have been for others and not for themselves. We all have that feeling when we glimpse its nobility and grandeur. At the same time that contact has been given us personally, and we must take the chance ourselves, for it was not for nothing that it came our way."
+  },
+  {
+    author: "Bassui",
+    book: "Mud and water - The Collected Teachings of Zen Master Bassui",
+    quote: "When you awaken to the unique and wonderful Dharma of your true nature it is as if the lost child had come home."
+  },
+  {
+    author: "Bhagavad Gita",
+    book: "",
+    quote: "There is a war that opens the doors of heaven. Happy the warriors whose fate is to fight such war."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "At those times when understanding suddenly widens, day by day more and more, one should leave traces of how the crack that lets in the light of new understanding was opened. These traces have a very special flavour and strength, and one day in their turn will produce effects. They also help to fix the new understanding. For when suddenly without warning we find ourselves in the middle of that which we have been seeking, we should remember the necessity of fixing the state that has been given us, in order for it to become permanently ours. These times of sudden enlightenment and understanding are part of the most mysterious and miraculous aspect of the Work. We cannot anticipate them, we cannot deserve them. 'We do not know the day nor the hour…' as it is said in the Gospels. But when they come, all values are upset. And they fix the direction and the course of the whole of the stage that follows."
+  },
+  {
+    author: "Gospel of Thomas",
+    book: "",
+    quote: "Jesus said, \"Those who seek should not stop seeking until they find. When they find, they will be disturbed. When they are disturbed, they will marvel, and will reign over all."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol. I",
+    quote: "When you begin to try to do all this, remember that you are beginning to do something that has always been taught to those capable of understanding and that the meaning of what you are doing is so great, so deep, so eternal, that, even if you can catch a mere glimpse of it, your emotions will awaken and you will see in a flash what is meant by evaluation of the Work, and what is meant by greater mind, and what is meant by the sleep of humanity."
+  },
+  {
+    author: "G. I. Gurdjieff",
+    book: "Meetings with Remarkable Men",
+    quote: "Gradually arose in me that 'something' which has brought the whole of me to the unshakable conviction that, apart from the vanities of life, there exists a 'something else' which must be the aim and ideal of every more or less thinking man, and that it is only this something else which may make a man really happy and give him real values, instead of the illusory 'goods' with which in ordinary life he is always and in everything full."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol I",
+    quote: "Awakening is the individual task of everyone. But only a few can awaken at a time or find the possibilities offered them. If these begin to awaken the effect spreads and others begin to understand what work means and what awakening means."
+  },
+  {
+    author: "Gyalse Tokme Zangpo",
+    book: "The Thirty-Seven Practices of All the Bodhisattvas",
+    quote: "The practice of all the bodhisattvas is to strive towards the goal, Which is the supreme state of changeless, everlasting liberation,"
+  },
+  {
+    author: "Hakuin",
+    book: "From: Wild Ivy: The Spiritual Autobiography of Zen Master Hakuin",
+    quote: "Distinctions of rank, class, or gender were almost meaningless when set against the all-important matter of kenshō—spiritual self-awakening achieved by seeing into the true nature. \"In this universe, there is a great treasure,\" he once told people. \"If you possess it, then whether you are a boatman or a cartman, a servant or a maid, you are a person of great fortune and virtue and wisdom. If you don't possess it, then even if you are an emperor, a daimyo, with high rank and great wealth, you are poor and ignorant, a person of low estate."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "The expansion comes not from \"doing\" something, from the ego, but from love. It signifies being and becoming, with an attention that is more and more free. This is the liberation that Gurdjieff speaks of. It is the aim of all schools, all religions. With consciousness, I see what is, and in the experience \"I Am ,\" I open to the divine, the infinite beyond space and time, the higher force that religions call God. My being is Being. To be one, whole in the face of life, is all that matters. So long as I remain conscious of this, I feel a life within me and a peace that nothing else can give. I am here, alive, and around me ex­ists the entire universe. The life that is around me is in me. I feel this universal life, the force of the universe. And I feel myself existing as part of the world that surrounds me. Here everything helps, even the cushion on which I sit. I am present, awakened to what I am. And I see that the most important thing is to be. I know it— now— and as I know it, I feel related to everything around me. There is no before, no after, only life itself. I have the impression of emerging from a dream. Everything is real. I feel free, and at peace. In this state, I do not seek, I do not wish, I do not expect anything. There is only what \"I am\" in this moment. I know now how I am here and why I am here."
+  },
+  {
+    author: "Sri Aurobindo",
+    book: "The Hour of God",
+    quote: "This is the transfiguration of thyself on the mountain. It is to discover God in thyself and reveal him to thyself in all things. Live in his being, shine with his light, act with his power, rejoice with his bliss. Be that Fire and that Sun and that Ocean. Be that joy and that greatness and that beauty. When thou hast done this even in part, thou hast attained to the first steps of supermanhood."
+  },
+  {
+    author: "Saint Augustine",
+    book: "Confessions",
+    quote: "Late have I loved you, beauty so old and so new: late have I loved You. And see, You were within and I without in the external world and sought You there...You were with me and I was not with You."
+  },
+    {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "I know that the Work is to make free men and brave men, who will work in any circumstances and apparently alone, secure in their inner connection and inner help. But how few of us want to be free or brave!"
+  },
+  {
+    author: "William Walker Atkinson",
+    book: "A Series of Lessons in Raja Yoga",
+    quote: "Have patience and perseverance. The task may be difficult, but the reward is great. To become conscious of the greatness, majesty, strength and power of your real being is worth years of hard study. Do you not think so? Then study and practice hopefully, diligently and earnestly."
+  },
+  {
+    author: "William Walker Atkinson",
+    book: "A Series of Lessons in Raja Yoga",
+    quote: "You will begin to realize at least a part of your Divine inheritance, and to know indeed that you are a Child of the Infinite, the very essence of your Divine Parent being in the fibres of your being, At such times of realization one becomes conscious of what lies before the soul in its upward path, and how small the greatest prizes that Earth has to offer are when compared to some of these things before the soul, as seen by the eyes of the Spiritual Mind in moments of clear vision."
+  },
+  {
+    author: "William Walker Atkinson",
+    book: "Fourteen Lessons in Yogi Philosophy and Oriental Occultism",
+    quote: "May this great joy of Illumination be yours, dear students. And it will be yours when the proper time comes . When it comes do not be dismayed, and when it leaves you do not mourn its loss—it will come again. Live on, reaching ever upward toward your Real Self and opening up yourself to its influence. Be always willing to listen to the Voice of The Silence—willing always to respond to the touch of Te Unseen Hand"
+  },
+  {
+    author: "Ouspensky, Taylor Merrily",
+    book: "Conscience: The Search for Truth",
+    quote: "Think about life in general, think about masses of blind and sleeping people without any chance in the world to become anything else. Think about yourself, realize how many opportunities you had and how many you have already lost and continue to lose daily."
+  },
+  {
+    author: "Ouspensky, Taylor Merrily",
+    book: "Conscience: The Search for Truth",
+    quote: "If we take the example of a butterfly then man is approximately a caterpillar. And the vast majority of people die as 'caterpillars'. But out of the masses of caterpillars a small percentage of transforming beings is constantly emerging. These evolving beings are, for us, people of higher mind. We can know of their existence by traces of their activity in history, chiefly in art and in religions."
+  },
+  {
+    author: "Mabel Collins",
+    book: "Light on the Patt",
+    quote: "The peace you shall desire is that sacred peace which nothing can disturb, and in which the soul grows as does the holy flower upon the still lagoons. And that power which the disciple shall covet is that which shall make him appear as nothing in the eyes of men."
+  },
+  {
+    author: "Virgil",
+    book: "The Aeneid VI",
+    quote: "Easy is the descent into the lower world. Night and day the door of gloomy Dis stands open; But to recall Thy steps and pass out to the upper air, This is the task, this the Work.\""
+  },
+  {
+    author: "Constantine P. Cavafy",
+    book: "",
+    quote: "You must always have Ithaka in your mind, Arrival there is your predestination."
+  },
+  {
+    author: "Manly P. Hall",
+    book: "The Secret Teachings of All Ages",
+    quote: "The following Rosicrucian axiom is significant: \"A seed is useless and impotent unless it is put in its appropriate matrix.\" Franz Hartmann comments on this axiom with these illuminating words: \"A soul cannot develop and progress without an appropriate body, because it is the physical body that furnishes the material for its development.\" (See In the Pronaos of the Temple of Wisdom.)"
+  },
+  {
+    author: "Walpola Rahula",
+    book: "What the Buddha Taught",
+    quote: "Every man has within himself the potentiality of becoming a Buddha, if he so wills it and endeavours."
+  },
+  {
+    author: "Lorenzo Scupoli",
+    book: "Spiritual combat",
+    quote: "This is a battle which only ends when life ends, so that there is no escape for us from it ; for he who does not fight in it, is of necessity either taken captive or killed."
+  },
+  {
+    author: "Robert Burton",
+    book: "Self-remembering",
+    quote: "The development of consciousness is the hidden meaning of life for man."
+  },
+  {
+    author: "William Walker Atkinson",
+    book: "Fourteen Lessons in Yogi Philosophy and Oriental Occultism",
+    quote: "Each one of us here has his own work to do. We are here for a purpose, and until we fall in with the law and work out the tasks set before us, we will have these tasks constantly and repeatedly put before us until they are accomplished. The purpose of the accomplishment of these tasks is experience and growth, and, unpleasant as our tasks may seem, they have a most direct bearing upon our future growth and life."
+  },
+    {
+    author: "Hazrat Bayazid al-Bistami",
+    book: "",
+    quote: "The thing we tell of can never be found by seeking, yet only seekers find it."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "I want people to study—study something, almost anything, deeply, from all angles; try to do original research, using what we have been given as the key of understanding."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "As long as we are trapped in a net of consol­ing belief, we lack the intensity and subtlety required for real explo­ration. Unless I understand this, my observation will remain based on forms, on what I know, and will not be enlivened by the spirit of discovery, as if for the first time."
+  },
+  {
+    author: "Eduard Schure",
+    book: "The Great Initiates",
+    quote: "\"Faith,\" said a great doctor, \"is the courage of the spirit that rushes forward, sure of finding the truth. This faith is not the enemy of reason, but its torch; It is that of Christopher Columbus and Galileo, who wants proof and counterproof, provando e riprovando, and it is the only possible today."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "I think faith is the same as that which Ouspensky called 'positive attitude'. And in my experience I know that was the first essential, whose presence made the impossible possible, and whose absence immediately cut one off from all understanding"
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "A basic principle of this school is always to do more than what ordinarily we can do. Only this will lead to change. If we do merely what is possible, we stay as we are. It is necessary to do the impossible. This is the difference from ordinary life, in which one only does what is possible. Another principle is that we intentionally do not rely on a precise form given in advance, so that an active and more conscious search can take place."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol III",
+    quote: "If people take the Work as a cut-and-dried subject that they simply store in their memory then they do not think about the ideas of the Work for themselves. When people cease to think for themselves they surrender the one part of them that can still lead to awakening. We tend to wish everything to be duly explained for us without the effort of finding our own solution."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol III",
+    quote: "Now one of the greatest dangers of this Work is that it becomes purely formatory, purely a matter of memory. People have sometimes said to me: \"Why don't you make a full draft of all the ideas of this Work and everything that is said in it so that we could read it over and over again for ourselves?\" Why? Because it would simply then lie in the outer memory and in such a case you may be quite sure that the whole level of the Work would drop to zero. It would be something outside you and not inside you. It would not be emotional. It would not touch you."
+  },
+  {
+    author: "G.I. Gurdjieff",
+    book: "From P.D. Ouspensky - In Search of the Miraculous",
+    quote: "Man will not attain knowledge until he makes the necessary efforts. Only by his own efforts can he attain what he seeks. No one can do for him the work he should do for himself. All that another can do for him is to give him the impetus to work and from this point of view, symbolism, properly perceived, plays the part of an impetus of this kind of knowledge."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Our mind is our instrument for search— so long as it is not influenced by ready-made answers."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "If we wish to change, we must look for the new \"man\" in ourselves, the one who is hidden. This is the one who remembers, who has a force that can only be brought by our wish, our will, and must grow degree by degree. It is necessary to see that a more active state, a greater intensity, is possible."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Knowledge is knowledge of the whole. Yet we can only receive it in fragments. Afterward we must connect them ourselves in order to find their place in an understanding of the whole."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "When I experience this more active thinking and sensing together, I discover a new wish, a feeling of urgency to be like this. It is only at the moment this intensity appears— of wishing to see, of wishing to know what is— that I awake to myself and to what I am as a whole. I awake not in order to change but to know the true, the real. What has changed is my attitude. It is more conscious. And I see that if this active wishing is not here, I will fall back into my dream."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol II",
+    quote: "It is necessary for everyone to think for himself about the meaning of this teaching. Unless he does so, he will do everything in a vague external way, without seeing or understanding what it is all about, and without having any force to work. Meaning gives force and the more meaning this work has for you the more it will affect you emotionally and the more force will you obtain from it. For it is from the awakening of the emotional centre that the greatest force is derived."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol II",
+    quote: "G. once said: \"Bring all things into the Work. Do not go into life as a relaxation from the Work but connect your relaxation in life with the Work."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol II",
+    quote: "If you are in the Work, whatever you do is in the Work. If you cannot feel this, you will divide yourself into life-'I's and Work-'I's, which will appear to be at enmity with each other."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol II",
+    quote: "G. once said: \"In this Work we have good leather to sell for people who wish to walk, but people must make their shoes out of this leather for themselves."
+  },
+  {
+    author: "Suzuki, D.T.",
+    book: "An Introduction to Zen Buddhism",
+    quote: "Whatever teachings there are in Zen, they come out of one's own mind. We teach ourselves; Zen merely points the way."
+  },
+  {
+    author: "Suzuki, D.T.",
+    book: "An Introduction to Zen Buddhism",
+    quote: "All that we can do in Zen in the way of instruction is to indicate, or to suggest, or to show the way so that one's attention may be directed towards the goal. As to attaining the goal and taking hold of the thing itself, this must be done by one's own hands, for nobody else can do it for one."
+  },
+  {
+    author: "J.H. Reyner",
+    book: "Ouspensky, the unsung genius",
+    quote: "He [Ouspensky] began to develop the insatiable urge to question everything, to challenge all the things we usually take for granted, and this was to characterise his whole life."
+  },
+    {
+    author: "Sri Aurobindo",
+    book: "The Hour of God",
+    quote: "There are moments when the Spirit moves among men and the breath of the Lord is abroad upon the waters of our being; there are others when it retires and men are left to act in the strength or the weakness of their own egoism. The first are periods when even a little effort produces great results and changes destiny; the second are spaces of time when much labour goes to the making of a little result. It is true that the latter may prepare the former, may be the little smoke of sacrifice going up to heaven which calls down the rain of God's bounty."
+  },
+  {
+    author: "Elder Paisios",
+    book: "",
+    quote: "For God to help, one must have a desire to struggle. And when we say a desire to struggle, we mean that one must be willing to make some effort to overcome his particular weakness. If God sees even a little true will, He provides abundant help for man, He sends His Grace in great abundance."
+  },
+  {
+    author: "Russian Proverb",
+    book: "",
+    quote: "Pray to god but keep rowing to shore"
+  },
+  {
+    author: "Gospel of Luke",
+    book: "",
+    quote: "Why do you call Me 'Lord, Lord,' and not do the things which I say?"
+  },
+  {
+    author: "Elder Paisios",
+    book: "",
+    quote: "Struggle with all your power to gain Paradise. And do not listen to those who say that everyone will be saved. This is trap of Satan so that we won't struggle."
+  },
+  {
+    author: "Al Ghazali",
+    book: "",
+    quote: "The way to paradise is an uphill climb whereas hell is downhill. Hence, there is a struggle to get to paradise and not to hell."
+  },
+  {
+    author: "Rodney Collin",
+    book: "Theory of conscious harmony",
+    quote: "'Move, move, you must move from the place where you are.' To me those words of Ouspensky's last week become constantly more urgent. For I know that it is now made possible for us to move, and that we are helped to do so if we really wish it. We can be given the answer to any question if we ask it innerly and sincerely and are prepared to abide by the answer we receive."
+  },
+  {
+    author: "Indian mantra",
+    book: "",
+    quote: "Om asatoma sadgamaya From ignorance, lead me to truth; Tamaso ma jyotir gamaya From darkness, lead me to light; Mrtyor ma amrtam gamaya From death, lead me to immortality"
+  },
+  {
+    author: "Gospel of Matthew",
+    book: "",
+    quote: "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened."
+  },
+  {
+    author: "St. Teresa of Avila",
+    book: "",
+    quote: "God calls to us in countless little ways all the time. Through illnesses and suffering and through sorrow he calls to us. Through a truth glimpsed fleetingly in a state of prayer he calls to us. No matter how halfhearted such insights may be, God rejoices whenever we learn what he is trying to teach us."
+  },
+  {
+    author: "Mabel Collins",
+    book: "Light on the Path",
+    quote: "It is impossible to help others till you have obtained some certainty of your own."
+  },
+  {
+    author: "Abd al-Qadir al-Jilani",
+    book: "The Secret of Secrets",
+    quote: "If only the lamp of divine secrets be kindled in your inner self the rest will come, either all at once or little by little. Read, listen, try to understand. The dark skies of unconciousness will be lit by divine presence and the peace and beauty of the full moon, which will rise from the horizon shedding light upon light (1), ever rising in the sky […] until it shines in glory in the centre of the sky, dispersing the darkness of heedlessness. (I swear) by the night when it is still (2)… by the glorious morning light (3)… your night of unconsciousness will see the brightness of the day. Then you will inhale the perfume of remembrance and repent in the early hours of the morning (4) of unconsciousness and regret your life spent in sleep. You will hear the songs of the morning nightingales and you will hear them say: They were in the habit of sleeping but little by night, and in the hours of the early dawn they (were found) praying for forgiveness (5) Allah guides to His light whom He pleases (6) Then you will see from the horizon of Divine Reason the sun of inner knowledge rising. It is your private sun, for you are the one whom Allah guides and are on the right path and not the one He leaves in error (7). All this will begin when the mirror of your heart is cleansed. The light of the divine secrets will fall upon it if you are willing and ask for Him, from Him, with Him."
+  },
+    {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "Question: Are there certain ideas that will always awake one, because I find some ideas help a lot one day and not another?\nAnswer: Yes, certainly, but you must find things that help more often, certain realizations. There is a great difference between realization and words. Once you have realized something, you know that it is true. Then you must not forget it. The chief question must be how to awake. Realize that you are asleep, that everybody is asleep. Then realize that the only way out is to awake. It is necessary to concentrate on one fact: sleep and the possibility of awaking. If you think about it and feel it, then the chance appears. Until you come to this realization, there is no chance, really."
+  },
+  {
+    author: "P.D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "It is necessary always to remember why you started. Do you want to get things you can get from ordinary life or different things?"
+  },
+  {
+    author: "Jean Vaysse",
+    book: "Toward Awakening",
+    quote: "A very alive inner awareness and a determination that never loses courage are indispensable to proceed on a road that is my own."
+  },
+  {
+    author: "Eliphas Lévi",
+    book: "Dogme et Rituel de la Haute Magie",
+    quote: "To attain the Sanctum Regnum, in other words, the knowledge and power of the Magi, there are four indispensable conditions—an intelligence illuminated by study, an intrepidity which nothing can check, a will which cannot be broken, and a prudence which nothing can corrupt and nothing intoxicate."
+  },
+  {
+    author: "W. H. Murray",
+    book: "",
+    quote: "The moment one definitely commits oneself, then Providence moves too … raising in one's favor all manner of unforeseen incidents and meetings and material assistance, which no man could have dreamt would have come his way."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "Revolving around self-interest, our narrow mind diminishes the challenges of life by interpreting them with its limited understanding. As a result, our lives suffer from a lack of intense, strong feeling, a lack of passion. It is an essential problem. When we have real passion in the depths of ourselves, we feel strongly and are extremely sensitive to life— to suffering, to beauty, to nature ... to everything. We care about life, its possibilities in work together and in relation. But without pas­sion, life is empty, meaningless. If we do not feel deeply the beauty of life and its challenge, then life has no sense at all. We function me­chanically. Yet this passion is not devotion or sentimentality. As soon as passion has a motive or preference, it becomes pleasure or pain. The passion we need is the passion to be."
+  },
+  {
+    author: "St. Teresa of Avila",
+    book: "",
+    quote: "God withholds Himself from no one who perseveres."
+  },
+  {
+    author: "St. Teresa of Avila",
+    book: "",
+    quote: "Be gentle to all, and stern with yourself."
+  },
+  {
+    author: "Proverbs",
+    book: "",
+    quote: "Let your eyes look straight ahead; fix your gaze directly before you. Give careful thought to the paths for your feet and be steadfast in all your ways"
+  },
+  {
+    author: "Sir Rabindranath Tagore",
+    book: "",
+    quote: "When we watch a child trying to walk we see its  countless failures; its successes are but few. If we had  to limit our observation within a narrow space of  time, the sight would be cruel. But we find that in  spite of its repeated failures there is an impetus of joy  in the child which sustains it, in its seemingly  impossible task."
+  },
+  {
+    author: "Sayings of the Elders",
+    book: "From: McGuckin, John Anthony - The book of mystical chapters.",
+    quote: "A monk came to Abba Sisoes and said: 'What should I do, Abba, for I have fallen from grace?' And he replied, 'Get up again.' The monk came back shortly after and said: 'What shall I do now, for I have fallen again?' And the old man said to him, 'Just get up again. Never cease getting back up again!'"
+  },
+  {
+    author: "Rudolf Steiner",
+    book: "The way of initiation",
+    quote: "Courage and self-confidence are the two lamps which must never be allowed to burn themselves out on the pathway to the occult."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol. I",
+    quote: "There are many sayings in ancient esoteric literature that refer to the necessity of keeping a certain heat within him. You know that an egg that is being hatched must not be allowed to get cold too long. You have heard also in this teaching that a fire must be lit to heat the alchemical retort in which the metallic powders are contained which must eventually be fused together."
+  },
+  {
+    author: "James",
+    book: "",
+    quote: "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
+  },
+  {
+    author: "Revelation",
+    book: "",
+    quote: "He that overcometh shall inherit all things. I shall be his God, and he shall be My Son."
+  },
+  {
+    author: "William Walker Atkinson",
+    book: "A Series of Lessons in Raja Yoga",
+    quote: "The matter is one of practice, and, like anything else that is new, must be acquired by perseverance and patience."
+  },
+  {
+    author: "Jean Vaysse",
+    book: "Toward Awakening",
+    quote: "We need to develop in ourselves a strong, lucid, stable presence, one that is capable of achieving its goals, making use of the forces that can help us, and resisting the forces in life that carry us away."
+  },
+  {
+    author: "Dante",
+    book: "Inferno, Canto 5.",
+    quote: "Stand firm as the tower that never shakes its top whatever wind may blow"
+  },
+  {
+    author: "Lorenzo Scupoli",
+    book: "Spiritual combat",
+    quote: "Let every thing be a means of leading you to God, and let nothing detain you on the way."
+  },
+  {
+    author: "Lorenzo Scupoli",
+    book: "Spiritual combat",
+    quote: "Your heart was created by God for this end alone, to be loved and possessed by Him. And with this love you can make it do whatever you wish, and every thing, however difficult it might be, will in this manner become easy to you"
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol. II",
+    quote: "Have you got something in you that can resist the ups and down of life or are you simply a creature of external circumstances."
+  },
+  {
+    author: "Mabel Collins",
+    book: "Light on the Path",
+    quote: "Know, O disciple! that those who have passed through the silence, and felt its peace, and retained its strength, they long that you shall pass through it also. Therefore, in the Hall of Learning, when he is capable of entering there, the disciple will always find his master."
+  },
+  {
+    author: "William Walker Atkinson",
+    book: "Fourteen Lessons in Yogi Philosophy and Oriental Occultism",
+    quote: "According to our philosophy, the student who is in harmonious sympathy with his teachers really establish es a psychic connection with them, and is in consequence enabled to grasp the \"spirit\" of the teaching. The members of the class having been attracted to us, and we to them, will form a harmonious body working with us to the common end of self improvement, growth, development, and unfoldment."
+  },
+  {
+    author: "Robert De Ropp",
+    book: "The Master Game",
+    quote: "Our inner space is totally occupied with the subject matter about which we are reading, the spectacle we are watching. There is nothing in the least bit voluntary about this form of attention. We are caught up like flies in a spider's web, manipulated, directed, enchained. Look at the faces of people at the race track, a baseball game, a bullfight, a prizefight, any spectacle of a flamboyant or brutal kind. There is nothing behind the face. It is empty, a mask. The house is vacant. This is enslaved attention. In this condition, inner silence and simple awareness are lost and the whole field of consciousness is \"occupied\" by a victorious enemy. In the state of enslaved attention, the vital force is squandered. No less costly in terms of energy is dispersed attention, attention which wanders all over the field of awareness, dragged now here, now there, \"a feather for every wind that blows\". There is a total absence of inner stability. This state drains the organism of its strength insofar as the power to maintain awareness is concerned. There results a trancelike condition, a state of semi-hypnosis that borders on the pathological but is not recognized as such by psychiatrists because a large majority of the \"well\" population pass their lives in this state, including the psychiatrists. If man could be aware of his state of sleep, how eagerly, how urgently he would struggle to awaken! For waking sleep is dangerous and dismal. Waking sleep is inner slavery and inner unrest."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "An inattentive mind is filled with thoughts. In a passive state it is con­stantly creating images and applying them to what I observe. The im­ages provoke pleasure or pain, which is recorded in my memory, and illusions form around desires for satisfaction. In observing from a fixed vantage point, this mind creates a kind of separation, an opposition, a judge that reacts to everything with a preconception based on what has been learned."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol III",
+    quote: "We spend most of the day in a vague, unfocused state, in which a stream of mechanical inner talking and phantasy goes on endlessly. This is called being between centres. When we are in attention we are in a centre."
+  },
+  {
+    author: "Jeanne de Salzmann",
+    book: "The Reality of Being",
+    quote: "So, my first conscious act is to know my mechanicalness, to see myself blindly obeying an automatic force of attraction or repulsion, and to realize my own passivity, my inertia in the face of it. My automatism is a prison. So long as I believe myself free, I will not get out. In order to make the necessary effort, I must understand that I am imprisoned. I have to see myself being a ma­chine, to know myself as a machine, and to be here while function­ing as a machine. My aim is to experience being mechanical and never forget it."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol III",
+    quote: "A man who does everything because he wants to be just the same as other people is of course a man who is not acting from anything internal. He is acting from the outer side of himself, from the Personality, speaking in general. He does not really think what he is doing or even feel what he is doing, save that he is doing his duty, as he was taught. He is going with the mechanical stream of things, and he has no trace of individual thinking, of individual feeling, in regard to any situations that arise, but always acts mechanically according to the formation of his own Personality. In other words, there is no real man there, no real individual, but a kind of mass-produced man."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol I",
+    quote: "We live almost entirely by mechanical associations. We get up, yawn, eat breakfast, make our usual remarks, express our usual opinions, use our usual phrases, make our usual jokes, exhibit our usual likes and dislikes and so on."
+  },
+  {
+    author: "Maurice Nicoll",
+    book: "Psychological Commentaries on the Teachings of Gurdjieff and Ouspensky - Vol I",
+    quote: "When a man is identified there is no now for him. If he is asleep in Time, being hurried on from past to future, identified with everything, there is no now in his life. There is not even a present moment. On the contrary, everything is running, everything is changing, everything is turning into something else; and even the moment so looked-forward to, so eagerly anticipated, when it comes is already in the past."
+  },
+    {
+    author: "Sharfuddin Maneri",
+    book: "Letters from a Sufi Teacher",
+    quote: "Here there are neither formulae nor ceremonies, neither being nor non-being, neither description nor allusion, neither heaven nor earth. It is this stage alone that unveils the mystery: \"All are non-existent save Him\"."
+  },
+  {
+    author: "Sharfuddin Maneri",
+    book: "Letters from a Sufi Teacher",
+    quote: "A time comes when (the inner light] is a thousand times more luminous than the [ external] sun."
+  },
+  {
+    author: "Sharfuddin Maneri",
+    book: "Letters from a Sufi Teacher",
+    quote: "Sometimes, when the purity of the heart is complete, the Seer sees the True One within him, if he looks within, the True One without him, if he looks to the universe. When the Divine Light is reflected in the light of the soul, the vision gives bliss. When the Divine Light shines without the media of the soul and the heart, the vision manifests formlessness and infinity, uniqueness and harmony, the basis and support of all existence. Here there is neither rising nor setting, neither right nor left, neither up nor down, neither space nor time, neither far nor near, neither night nor day, neither heaven nor earth. Here the pen breaks, the tongue falters, intellect sinks into nothingness, intelligence and knowledge miss the way in the wilderness of amazement."
+  },
+  {
+    author: "Max Heindel",
+    book: "Mystical Interpretation of Christmas",
+    quote: "That it is no mere idle foolishness when Paul speaks of Christ being \"formed in you\". It is a sublime fact that we are all Christs-in-the-making and the sooner we realize that we must cultivate the Christ within before we can perceive the Christ without, the more we shall hasten the day of our spiritual illumination. But when the Christ has been formed in ourselves, when the immaculate conception has become a reality in our own hearts, when we have stood there at the birth of the Christ child and offered our gifts, dedicating the lower nature to the service of the Higher Self, then and then only the Christmas feast is spread for us from year to year."
+  },
+  {
+    author: "Thich Nhat Hanh",
+    book: "Zen Keys",
+    quote: "The essence of Zen is Awakening. This is why one does not talk about Zen, one experiences it. The \"awakened\" man is recognizable by particular signs. First of all is liberty; he does not allow himself to be influenced by the vicissitudes of life, by fear, joy, anxiety, success, failure, etc. Then there is the spiritual force that shows itself in calmness, the ineffable smile, and serenity."
+  },
+  {
+    author: "John Bennett",
+    book: "Witness",
+    quote: "Suddenly, I was filled with the influx of an immense power. My body seemed to have turned into light. I could not feel its presence in the usual ways. There was no effort, no pain, no weariness, not even any sense of weight. I felt an intense gratitude towards Gurdjieff and Thomas de Hartmann, but they had quietly gone off, having dismissed the class, and leaving me quite alone. My own state was blissful beyond anything I had ever known. It was quite different from the ecstasy of sexual union, for it was altogether free and detached from the body. It was exultation in the faith that can move mountains. All had gone into the house for tea, but I went in the opposite direction towards the kitchen garden, where I took a spade and began to dig. Digging in the earth is a searching test of our capacity for physical effort. A strong man can dig very fast for a short time or slowly for a long time, but no one can force his body to dig fast for a long time even if he has exceptional training. I felt the need to test the power that had entered me, and I began to dig in the fierce afternoon heat for more than an hour at a rate that I ordinarily could not sustain for two minutes. I felt no fatigue and no sense of effort. My weak, rebellious, suffering body had become strong and obedient. The diarrhoea had ceased and I no longer felt the gnawing abdominal pains that had been with me for days. Moreover, I experienced a clarity of thought that I had only known involuntarily and at rare moments, but which now was at my command. […] The phrase 'in my mind's eye' took on new meaning as I 'saw' the eternal pattern of each thing I looked at, the trees, the plants, the water flowing in the canal and even the spade, and lastly my own body. I recognized the changing relationship between 'myself and 'my pattern'. As my state of consciousness changed, I and my 'pattern' grew closer together or separated and lost touch. Time and eternity were the conditions of our experience, and the Harmonious Development of Man towards which Gurdjieff was leading us was the secret of true freedom. I remember saying aloud: \"Now I see why God hides Himself from us.\" But even now I cannot recall the intuition behind this exclamation. Gurdjieff had said to me, at our first meeting at Kuru Cheshme, that it is not enough to know that another world exists: one must be able to enter it at will. Now I was living in Eternity and yet I had not lost my hold on Time. I was aware that Life itself is infinitely richer and greater than all that our thinking mind can possibly know about it. As the pupils began to return to the garden to begin the evening watering, I left my digging and wandered into the forest. I went past the stone quarry, past the saw-pit, along a path that led up the hill behind Avon. The great trees, the grey rocks, the cloudless sky and the murmur of evening insects all blended with my inner life. There was no distinction of outside and inside: everything was where it was, and so was neither inside nor outside of anything else. I no longer wished to test anything or prove anything, I was satisfied to be just as I was. Turning a bend in the path, where there was a big grey rock, I met Gurdjieff. Our meeting seemed inevitable, although I had never been in that part of the Forest before. Without any preliminaries, he began to talk about the energies that work in man. There is a certain energy that is necessary for work on oneself. No man can make efforts unless he has a supply of this energy. We can call it the Higher Emotional Energy. Everyone, by a natural process, makes a small amount of this energy every day. If rightly used, it enables man to achieve much for his own self-perfecting. But he can only get to a certain point in this way. The real complete transformation of Being, that is indispensable for a man who wishes to fulfil the purpose of his existence, requires a very much greater concentration of Higher Emotional Energy than that which comes to him by nature. \"There are some people in the world, but they are very rare, who are connected to a Great Reservoir or Accumulator of this energy. This Reservoir has no limits. Those who can draw upon it can be a means of helping others. Suppose that a man needs a hundred units of this energy for his own transformation, but he only has ten units and cannot make more for himself. He is helpless. But with the help of someone who can draw upon the Great Accumulator, he can borrow ninety more. Then his work can be effective. He let all this sink in, and then stopped, and looking into my eyes said: \"Those who have this quality belong to a special part of the highest caste of humanity. It may be that one day you will become such, but you will have to wait for many years. What you have received today is a taste of what is possible for you. Until now, you have only known about these things theoretically, but now you have experience. When a man has had experience of Reality, he is responsible for what he does with his life. A lecture of Ouspensky came into my mind. He had spoken about the very narrow limits within which we can control our functions, and added: \"It is easy to verify that we have no control over our emotions. Some people imagine that they can be angry or pleased as they will, but anyone can verify that he cannot be astonished at will.\" As I recalled these words, I said to myself: \"I will be astonished.\" Instantly, I was overwhelmed with amazement, not only at my own state, but at everything that I looked at or thought of. Each tree was so uniquely itself that I felt that I could walk in the forest for ever and never cease from wonderment. Then the thought of 'fear' came to me. At once I was shaking with terror. Unnamed horrors were menacing me on every side. I thought of 'joy', and I felt that my heart would burst from rapture. The word 'love' came to me, and I was pervaded with such fine shades of tenderness and compassion that I saw that I had not the remotest idea of the depth and the range of love. Love was everywhere and in everything. It was infinitely adaptable to every shade of need. After a time, it became too much for me, it seemed that if I plunged any more deeply into the mystery of love, I would cease to exist. I wanted to be free from this power to feel whatever I chose, and at once it left me."
+  },
+  {
+    author: "Paramahamsa Yogananda",
+    book: "Autobiography of a Yogi",
+    quote: "Soul and mind instantly lost their physical bondage and streamed out like a fluid piercing light from my every pore. The flesh was as though dead; yet in my intense awareness I knew that never before had I been fully alive. My sense of identity was no longer narrowly confined to a body but embraced the circumambient atoms. People on distant streets seemed to be moving gently over my own remote periphery. The roots of plants and trees appeared through a dim transparency of the soil; I discerned the inward flow of their sap. The whole vicinity lay bare before me. My ordinary frontal vision was now changed to a vast spherical sight, simultaneously all-perceptive. Through the back of my head I saw men strolling far down Rai Ghat Lane, and noticed also a white cow that was leisurely approaching. When she reached the open ashram gate, I observed her as though with my two physical eyes. After she had passed behind the brick wall of the courtyard, I saw her clearly still. All objects within my panoramic gaze trembled and vibrated like quick motion pictures. My body, Master's, the pillared courtyard, the furniture and floor, the trees and sunshine, occasionally became violently agitated, until all melted into a luminescent sea; even as sugar crystals, thrown into a glass of water, dissolve after being shaken. The unifying light alternated with materialisations of form, the metamorphoses revealing the law of cause and effect in creation. An oceanic joy broke upon calm endless shores of my soul. The Spirit of God, I realized, is exhaustless Bliss; His body is countless tissues of light. A swelling glory within me began to envelop towns, continents, the earth, solar and stellar systems, tenuous nebulae, and floating universes. The entire cosmos, gently luminous, like a city seen afar at night, glimmered within the infinitude of my being. […] Suddenly the breath returned to my lungs. With a disappointment almost unbearable, I realized that my infinite immensity was lost. Once more I was limited to the humiliating cage of a body, not easily accommodative to the Spirit. Like a prodigal child, I had run away from my macrocosmic home and had imprisoned myself in a narrow microcosm. My guru was standing motionless before me; I started to prostrate myself at his holy feet in gratitude for his having bestowed on me the experience in cosmic consciousness that I had long passionately sought. He held me upright and said quietly: \"You must not get overdrunk with ecstasy. Much work yet remains for you in the world. Come, let us sweep the balcony floor; then we shall walk by the Ganges.\""
+  },
+  {
+    author: "Bhagavad Gita",
+    book: "",
+    quote: "Those who conquer the mind realize paramatma and know tranquility. To such souls, happiness and distress, heat and cold, honor and dishonor are all the same."
+  },
+  {
+    author: "Swami Radhanath",
+    book: "The journey within - Exploring the path of bhakti",
+    quote: "And finally there is ishvara pranidhana, or \"surrender to the Supreme.\" This means to dedicate one's actions, words, and thoughts and ultimately, one's prana or essence, to the will of the Divine. From the perspective of bhakti yoga, all forms of yoga culminate in ishvara pranidhana. Surrender to the will of the Supreme is the ultimate victory. In this liberated state, one offers one's whole being as an instrument of the highest power: unconditional love. As the sage Patanjali states, \"Samadhi siddhi isvara pranidhanat [the perfection of samadhi is to surrender to the Supreme].\""
+  },
+  {
+    author: "Swami Radhanath",
+    book: "The journey within - Exploring the path of bhakti",
+    quote: "The soul's ultimate potential is to taste divine love. That experience is realized when we are so absorbed in loving service to the Supreme and compassion for others that we transcend our own desire to be happy. In such a state, we are truly lost in love, and we realize the inner truth of the phrase \"in giving we receive.\" This ecstatic love is dormant within each of us."
+  },
+  {
+    author: "Claustres Solange",
+    book: "Becoming Conscious",
+    quote: "Here, now at the present moment in time and space. The rhythm of my associations slows down the sensation of my body becomes whole complete, intense and subtle. I feel the pulsation of my blood in all my body. The rhythm of my breathing becomes light, deep, steady. Stillness and serenity inhabit me. There is now only the vigilance of my thought, the feeling of myself, the sensation of myself, the consciousness of all myself."
+  },
+  {
+    author: "Robert De Ropp",
+    book: "The Master Game",
+    quote: "The face which, in a state of identification, is either tense or stupid, now wears the calm, withdrawn air that one observes in the features of meditating Bodhisattvas. In such a one is embodied that condition so aptly described by the Zen patriarch: What life can compare with this! Sitting alone at the window I watch the flowers bloom, the leaves fall, the seasons come and go."
+  },
+  {
+    author: "Swami Vivekananda",
+    book: "Karma-yoga & Bhakti-yoga",
+    quote: "The ideal man is he who in the midst of the greatest silence and solitude finds the intensest activity, and in the midst of the intensest activity, the silence and solitude of the desert. He has learnt the secret of restraint; he has controlled himself. He goes through the streets of a big city with all its traffic, and his mind is calm as if he were in a cave where not a sound could reach him; but he is intensely working all the time."
+  },
+  {
+    author: "Pitagora",
+    book: "",
+    quote: "Declining from the public ways, walk in unfrequented paths."
+  },
+  {
+    author: "Dante Alighieri",
+    book: "Purgatory, Canto 5",
+    quote: "Come, follow me, and let these people talk: stand like a sturdy tower that does not shake its summit though the winds may blast;"
+  },
+  {
+    author: "P. D. Ouspensky",
+    book: "The Fourth Way",
+    quote: "If we begin to study ourselves we first of all come up against one word which we use more than any other and that is the word 'I'. We say ' I am doing', ' I am sitting', 'I feel', 'I like', 'I dislike' and so on. This is our chief illusion, for the principal mistake we make about ourselves is that we consider ourselves one; we always speak about ourselves as 'I' and we suppose that we refer to the same thing all the time when in reality we are divided into hundreds and hundreds of different 'I's. We do not know that we have not one 'I', but many different 'I's connected with our feelings and desires, and have no controlling 'I'. These 'I's change all the time; one suppresses another, one replaces another, and all this struggle makes up our inner life."
+  },
+  {
+    author: "Gospel of Mark",
+    book: "",
+    quote: "Then Jesus asked him, \"What is your name?\" \"My name is Legion,\" he replied, \"for we are many."
+  },
+  {
+    author: "St. Francis of Assisi",
+    book: "",
+    quote: "Lord make me an instrument of your peace"
+  },
+  {
+    author: "St. Teresa of Avila",
+    book: "",
+    quote: "We can only learn to know ourselves and do what we can - namely, surrender our will and fulfill God's will in us."
+  },
+  {
+    author: "Jean Vaysse",
+    book: "Toward awakening",
+    quote: "Inner evolution and the work that it requires cannot be carried out effectively unless set in motion by a genuine awareness of our inadequacies and faults"
   }
 ];
