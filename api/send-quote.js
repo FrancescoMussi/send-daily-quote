@@ -36,6 +36,17 @@ export default async function handler(req, res) {
   }
 
   try {
+    // Validate required environment variables
+    if (!process.env.RESEND_API_KEY) {
+      console.error('Missing RESEND_API_KEY environment variable')
+      return res.status(500).json({ error: 'RESEND_API_KEY is not configured' })
+    }
+
+    if (!process.env.EMAIL_RECIPIENTS) {
+      console.error('Missing EMAIL_RECIPIENTS environment variable')
+      return res.status(500).json({ error: 'EMAIL_RECIPIENTS is not configured' })
+    }
+
     const tolleQuote = getRandomQuote(tolle)
     const fourthwayQuote = getRandomQuote(fourthway)
     const spiritualityQuote = getRandomQuote(spirituality)
