@@ -2032,5 +2032,11 @@ export const spirituality = [
     author: "St. Teresa of Avila",
     book: "",
     quote: "We can only learn to know ourselves and do what we can - namely, surrender our will and fulfill God's will in us."
+  },
+  {
+    id: "spirituality-339",
+    author: "Giovanni Pico della Mirandola",
+    book: "Oration on the Dignity of Man",
+    quote: "I have made thee neither heavenly nor earthly, neither mortal nor immortal, so that with freedom of choice and with honor, as thy own sculptor and master, thou mightest mold thyself into the form thou dost prefer. Thou hast the power to degenerate into the lower forms of life, which are brute beasts. Thou hast the power, out of thy soul's judgment, to be reborn into the higher forms, which are divine."
   }
 ];
